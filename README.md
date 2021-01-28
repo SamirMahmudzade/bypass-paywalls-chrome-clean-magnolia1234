@@ -70,6 +70,8 @@ For zip-installation (load unpacked/developer mode): unzip files to installation
 
 ### List of supported websites
 
+_* free articles only._
+
 ##### World news
 [First Things](https://www.firstthings.com) -
 [Foreign Affairs](https://www.foreignaffairs.com) -
@@ -101,7 +103,7 @@ For zip-installation (load unpacked/developer mode): unzip files to installation
 [Fortune](https://fortune.com) -
 [Harvard Business Review](https://www.hbr.org) -
 [Inc.com](https://www.inc.com) -
-[MarketWatch](https://www.marketwatch.com)\* -
+[MarketWatch](https://www.marketwatch.com)\ -
 [MIT Sloan Management Review](https://sloanreview.mit.edu) -
 [Modern Healthcare](https://www.modernhealthcare.com) -
 [Quartz](https://qz.com)* -
@@ -142,6 +144,7 @@ For zip-installation (load unpacked/developer mode): unzip files to installation
 [Slate](https://slate.com) -
 [SofRep](https://sofrep.com) -
 [The Daily Beast](https://www.thedailybeast.com)* -
+[The Point Magazine](https://thepointmag.com) -
 [Vanity Fair](https://www.vanityfair.com) -
 [Variety](https://variety.com)
 
@@ -180,6 +183,7 @@ For zip-installation (load unpacked/developer mode): unzip files to installation
 [Le Devoir](https://www.ledevoir.com) -
 [National Post](https://www.nationalpost.com) -
 [The Globe and Mail](https://www.theglobeandmail.com) -
+[The Hill Times](https://www.hilltimes.com) -
 [The Logic](https://thelogic.co)\
 [The Toronto Star](https://www.thestar.com) and regional TorStar sites (grouped in options) like
 [Niagara Falls Review](https://www.niagarafallsreview.ca) -
@@ -200,6 +204,7 @@ For zip-installation (load unpacked/developer mode): unzip files to installation
 [Irish Independent](https://www.independent.ie) -
 [London Review of Books](https://www.lrb.co.uk) -
 [New Left Review](https://newleftreview.org) -
+[Prospect Magazine](https://www.prospectmagazine.co.uk) -
 [The Economist](https://www.economist.com) -
 [The Irish Times](https://www.irishtimes.com) -
 [The New Statesman](https://www.newstatesman.com) -
@@ -287,6 +292,7 @@ Groupe Rossel sites (grouped in options) like
 [Krautreporter.de](https://krautreporter.de) -
 [Kurier.at](https://kurier.at) -
 [Piqd.de](https://www.piqd.de) -
+[Ruhr Nachrichten](https://www.ruhrnachrichten.de) -
 [Sächsische Zeitung](https://www.saechsische.de) -
 [Schweriner Volkszeitung](https://www.svz.de) -
 [Süddeutsche Zeitung](https://www.sueddeutsche.de) -
@@ -358,15 +364,22 @@ Grouped in options:\
 [Trouw](https://www.trouw.nl) -
 [Volkskrant](https://www.volkskrant.nl)
 
+##### Portugal
+[Correio da Manhã](https://www.cmjornal.pt) -
+[Observador](https://observador.pt)
+
 ##### Russia
 [Republic.ru](https://republic.ru)
 
 ##### Spain
 [ABC](https://www.abc.es) -
+[El Confidencial](https://www.elconfidencial.com) -
+[El Diario.es](https://www.eldiario.es) -
 [El Mundo](https://www.elmundo.es) -
 [El País](https://elpais.com) -
-[El Periódico](https://www.elperiodico.com) -
+[El Periódico de Catalunya](https://www.elperiodico.com) -
 [Expansión](https://www.expansion.com) -
+[La Nueva España](https://www.lne.es) -
 [La Vanguardia](https://www.lavanguardia.com)\
 Grouped in options:\
 Grupo Vocento (ABC) regional sites like
@@ -472,6 +485,7 @@ For example:
 [Globes](https://www.globes.co.il) -
 [Haaretz.co.il](https://www.haaretz.co.il) -
 [Haaretz.com](https://www.haaretz.com) -
+[The Jerusalem Post](https://www.jpost.com) -
 [The Marker](https://www.themarker.com)
 
 #### Lebanon
@@ -479,6 +493,7 @@ For example:
 
 #### Latin America
 ##### Argentina
+[Ámbito](https://www.ambito.com) -
 [Clarín](https://www.clarin.com) -
 [La Nación](https://www.lanacion.com.ar)
 ##### Brazil
@@ -500,7 +515,7 @@ For example:
 [El Comercio](https://elcomercio.pe) -
 [Gestión](https://gestion.pe)
 
-_*free articles only._
+_* free articles only._
 
 ### Sites with limited number of free articles
 The free article limit can normally be bypassed by removing cookies for the site.  
