@@ -50,7 +50,7 @@ Windows Registry Editor Version 5.00
 
 #### Android
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=nl) or [Yandex Browser](https://play.google.com/store/apps/details?id=com.yandex.browser&hl=en) from the Google PlayStore.
-2. For Kiwi Browser load the CRX-file in releases (auto-updating, no whitelist needed, opt-in for custom sites not working (use kiwi-custom crx)).
+2. For Kiwi Browser load the CRX-file in releases (auto-updating, no whitelist needed, opt-in for custom sites not working (use kiwi-custom crx; updates to latest regular version)).
 3. For Yandex Browser follow Chrome instructions above (load unpacked; step 6: pick `manifest.json` instead of the folder).
 
 #### Firefox
@@ -104,7 +104,8 @@ _* free articles only._
 [Fortune](https://fortune.com) -
 [Harvard Business Review](https://www.hbr.org) -
 [Inc.com](https://www.inc.com) -
-[MarketWatch](https://www.marketwatch.com)\ -
+[Law.com](https://www.law.com)* -
+[MarketWatch](https://www.marketwatch.com) -
 [MIT Sloan Management Review](https://sloanreview.mit.edu) -
 [Modern Healthcare](https://www.modernhealthcare.com) -
 [Quartz](https://qz.com)* -
@@ -144,6 +145,7 @@ _* free articles only._
 [Rolling Stone](https://www.rollingstone.com) -
 [Slate](https://slate.com) -
 [SofRep](https://sofrep.com) -
+[The Art Newspaper](https://www.theartnewspaper.com) -
 [The Daily Beast](https://www.thedailybeast.com)* -
 [The Point Magazine](https://thepointmag.com) -
 [Vanity Fair](https://www.vanityfair.com) -
@@ -243,6 +245,7 @@ Alma Talent sites (grouped in options) like
 [Le Journal du Dimanche](https://lejdd.fr) –
 [Le Journal du Net](https://www.journaldunet.com) -
 [Le Parisien](https://www.leparisien.fr) -
+[Le Un](https://le1hebdo.fr) -
 [Les Échos](https://www.lesechos.fr) -
 [Libération](https://www.liberation.fr)* –
 [Paris Match](https://www.parismatch.com) -
@@ -316,7 +319,13 @@ Madsack Mediengruppe sites like
 [Lübecker Nachrichten](https://www.ln-online.de) -
 [Märkische Allgemeine](https://www.maz-online.de) -
 [Neue Presse (Hannover)](https://www.neuepresse.de) -
-[Ostsee-Zeitung](https://www.ostsee-zeitung.de)
+[Ostsee-Zeitung](https://www.ostsee-zeitung.de)\
+Rheinische Post Mediengruppe like
+[Aachener Nachrichten](https://www.aachener-nachrichten.de) -
+[General-Anzeiger Bonn](https://ga.de) -
+[Rheinische Post](https://rp-online.de) -
+[Saarbrücker Zeitung](http://www.saarbruecker-zeitung.de) -
+[Trierischer Volksfreund](http://www.volksfreund.de)
 
 ##### Italy
 [Corriere Della Sera](https://www.corriere.it) -
@@ -372,15 +381,22 @@ Grouped in options:\
 ##### Russia
 [Republic.ru](https://republic.ru)
 
+##### Slovenia
+[Finance.si](https://www.finance.si)
+
 ##### Spain
 [ABC](https://www.abc.es) -
+[Diario de Ibiza](https://www.diariodeibiza.es) -
+[Diario de Mallorca](https://www.diariodemallorca.es) -
 [El Confidencial](https://www.elconfidencial.com) -
 [El Diario.es](https://www.eldiario.es) -
 [El Mundo](https://www.elmundo.es) -
 [El País](https://elpais.com) -
 [El Periódico de Catalunya](https://www.elperiodico.com) -
 [Expansión](https://www.expansion.com) -
+[Faro de Vigo](https://www.farodevigo.es) -
 [La Nueva España](https://www.lne.es) -
+[La Provincia](https://www.laprovincia.es) -
 [La Vanguardia](https://www.lavanguardia.com)\
 Grouped in options:\
 Grupo Vocento (ABC) regional sites like
@@ -544,7 +560,7 @@ Check 'Options'-link in popup-menu and go to custom sites.
 \* by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).\
 Make sure the (new) site is checked under Options (or check on/off-button).  
 By default sites' cookies/local storage are removed after page loads (to bypass article limit).  
-Also you can enable Googlebot user-agent or disable Javascript for (sub)domain(s)/external sources.
+Also you can enable Googlebot user-agent, disable Javascript for (sub)domain(s)/external sources and/or set the referer (to Facebook, Google or Twitter; ignored when Googlebot is set).
 
 ### Add excluded site
 Add excluded sites/domains (for your subscriptions).\
