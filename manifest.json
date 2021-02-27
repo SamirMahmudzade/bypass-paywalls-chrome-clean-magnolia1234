@@ -21,6 +21,7 @@
         "open_in_tab": true,
         "page": "options.html"
     },
+    "incognito": "split",
     "optional_permissions": [
         "<all_urls>"
     ],
@@ -124,6 +125,7 @@
         "*://*.elnortedecastilla.es/*",
         "*://*.elpais.com/*",
         "*://*.elperiodico.com/*",
+        "*://*.esprit.presse.fr/*",
         "*://*.estadao.com.br/*",
         "*://*.estrellavalpo.cl/*",
         "*://*.estrepublicain.fr/*",
@@ -173,6 +175,7 @@
         "*://*.heraldsun.com.au/*",
         "*://*.hilltimes.com/*",
         "*://*.historyextra.com/*",
+        "*://*.houstonchronicle.com/*",
         "*://*.hoy.es/*",
         "*://*.hs.fi/*",
         "*://*.humo.be/*",
@@ -264,6 +267,7 @@
         "*://*.modernhealthcare.com/*",
         "*://*.morgenpost.de/*",
         "*://*.mv-voice.com/*",
+        "*://*.nation.africa/*",
         "*://*.nationalgeographic.com/*",
         "*://*.nationalpost.com/*",
         "*://*.nationalreview.com/*",
@@ -333,6 +337,8 @@
         "*://*.seattletimes.com/*",
         "*://*.seekingalpha.com/*",
         "*://*.sfchronicle.com/*",
+        "*://*.shz.de/*",
+        "*://*.si.com/*",
         "*://*.slader.com/*",
         "*://*.slate.com/*",
         "*://*.sloanreview.mit.edu/*",
@@ -422,7 +428,6 @@
         "*://*.wr.de/*",
         "*://*.wsj.com/*",
         "*://*.zeit.de/*",
-        "*://esprit.presse.fr/*",
         "*://*.ampproject.org/*",
         "*://*.blueconic.net/*",
         "*://*.cxense.com/*",
@@ -459,5 +464,5 @@
         "*://*.userzoom.com/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.0.8.0"
+    "version": "2.0.9.1"
 }

@@ -3,6 +3,25 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.0.9.1 (2021-02-22)
+Fix cookie storeId (Kiwi browser)
+
+* v2.0.9.0 (2021-02-21)
+Add Daily Nation (Kenya)
+Add Houston Chronicle (USA)
+Add Schleswig-Holsteinischer Zeitungsverlag (Germany)
+Add Sports Illustrated
+Fix-update Groupe La Depeche
+Fix-update La Croix (timing)
+Grouping Repubblica.it sites (rules only)
+Fix incognito window (cookies)
+Update incognito window (Chrome-only split mode)
+
+* v2.0.8.2 (2021-02-16)
+Fix contentScript (Kiwi browser)
+Fix popup (update notification; GitLab CORS issue)
+Update limit contentScript (add image/sub_frame)
+
 * v2.0.8.0 (2021-02-14)
 Add Augsburger Allgemeine (Germany)
 Add group McClatchy (USA)
@@ -108,7 +127,7 @@ Add Berlingske (Denmark)
 Add EUobserver
 Add Funke Mediengruppe (Germany)
 Add Groupe EBRA (France)
-Add Groupe La Dépêche (France)
+Add Groupe La Depeche (France)
 Add Madsack Mediengruppe (Germany)
 Fix-update Australian Financial Review (images)
 Fix-update Bloomberg (inline articles/adblocker)
