@@ -257,6 +257,7 @@ Alma Talent sites (grouped in options) like
 
 ##### France/Wallonia
 [Alternatives Economiques](https://www.alternatives-economiques.fr) -
+[Atlantico](https://atlantico.fr) -
 [Challenges](https://www.challenges.fr) –
 [Charlie Hebdo](https://charliehebdo.fr) -
 [Esprit](https://esprit.presse.fr) -
@@ -424,7 +425,8 @@ Grouped in options:\
 [Faro de Vigo](https://www.farodevigo.es) -
 [La Nueva España](https://www.lne.es) -
 [La Provincia](https://www.laprovincia.es) -
-[La Vanguardia](https://www.lavanguardia.com)\
+[La Vanguardia](https://www.lavanguardia.com) -
+[Política Exterior](https://www.politicaexterior.com)\
 Grouped in options:\
 Grupo Vocento (ABC) regional sites like
 [Diario Vasco](https://www.diariovasco.com) -

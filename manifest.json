@@ -46,6 +46,7 @@
         "*://*.arvopaperi.fi/*",
         "*://*.asia.nikkei.com/*",
         "*://*.atavist.com/*",
+        "*://*.atlantico.fr/*",
         "*://*.augsburger-allgemeine.de/*",
         "*://*.baltimoresun.com/*",
         "*://*.barrons.com/*",
@@ -311,6 +312,7 @@
         "*://*.philosophynow.org/*",
         "*://*.pilotonline.com/*",
         "*://*.piqd.de/*",
+        "*://*.politicaexterior.com/*",
         "*://*.portnews.com.au/*",
         "*://*.post-gazette.com/*",
         "*://*.prospectmagazine.co.uk/*",
@@ -464,10 +466,9 @@
         "*://*.pasedigital.cl/*",
         "*://*.rcsobjects.it/*",
         "*://*.repstatic.it/*",
-        "*://*.stripe.com/*",
         "*://*.userzoom.com/*",
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.1.0.0"
+    "version": "2.1.1.0"
 }
