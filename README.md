@@ -162,6 +162,7 @@ _* free articles only._
 [Miami Herald](https://www.miamiherald.com) -
 [Mountain View Voice](https://www.mv-voice.com) -
 [New York Magazine](https://www.nymag.com) (+ [Curbed](https://www.curbed.com/), [Grub Street](https://www.grubstreet.com), [The Cut](https://www.thecut.com) & [Vulture](https://www.vulture.com)) -
+[Newsday](https://www.newsday.com) -
 [Orange County Register](https://www.ocregister.com) -
 [Palo Alto Online](https://www.paloaltoonline.com) -
 [Pittsburgh Post Gazette](https://post-gazette.com) -
@@ -320,6 +321,7 @@ Groupe Rossel sites (grouped in options) like
 [Handelsblatt](https://www.handelsblatt.com) -
 [Krautreporter.de](https://krautreporter.de) -
 [Kurier.at](https://kurier.at) -
+[Mitteldeutsche Zeitung](https://www.mz-web.de) -
 [Neue Osnabrücker Zeitung](https://www.noz.de]) -
 [Piqd.de](https://www.piqd.de) -
 [Rhein-Zeitung](https://www.rhein-zeitung.de) -
@@ -337,6 +339,7 @@ Funke Mediengruppe sites like
 [Neue Ruhr Zeitung](https://www.nrz.de) -
 [Ostthüringer Zeitung](https://www.otz.de) -
 [Thüringer Allgemeine](https://www.thueringer-allgemeine.de) -
+[Thüringische Landeszeitung](https://www.tlz.de) -
 [Westdeutsche Allgemeine Zeitung](https://www.waz.de) -
 [Westfalenpost](https://www.wp.de) -
 [Westfälische Rundschau](https://www.wr.de)\
@@ -418,6 +421,7 @@ Grouped in options:\
 [Diario de Mallorca](https://www.diariodemallorca.es) -
 [El Confidencial](https://www.elconfidencial.com) -
 [El Diario.es](https://www.eldiario.es) -
+[El Español](https://www.elespanol.com) -
 [El Mundo](https://www.elmundo.es) -
 [El País](https://elpais.com) -
 [El Periódico de Catalunya](https://www.elperiodico.com) -
