@@ -58,6 +58,7 @@
         "*://*.berliner-zeitung.de/*",
         "*://*.berlingske.dk/*",
         "*://*.bienpublic.com/*",
+        "*://*.billboard.com/*",
         "*://*.bizjournals.com/*",
         "*://*.bloomberg.com/*",
         "*://*.bloombergquint.com/*",
@@ -226,6 +227,7 @@
         "*://*.lastampa.it/*",
         "*://*.latercera.com/*",
         "*://*.latimes.com/*",
+        "*://*.latribune.fr/*",
         "*://*.lavanguardia.com/*",
         "*://*.laverdad.es/*",
         "*://*.lavoixdunord.fr/*",
@@ -245,6 +247,7 @@
         "*://*.lesechos.fr/*",
         "*://*.lesoir.be/*",
         "*://*.lest-eclair.fr/*",
+        "*://*.letelegramme.fr/*",
         "*://*.liberation-champagne.fr/*",
         "*://*.liberation.fr/*",
         "*://*.limesonline.com/*",
@@ -484,5 +487,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.1.4.0"
+    "version": "2.1.5.0"
 }
