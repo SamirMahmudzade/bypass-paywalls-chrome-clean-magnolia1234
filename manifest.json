@@ -31,6 +31,7 @@
         "tabs",
         "webRequest",
         "webRequestBlocking",
+        "*://*.360dx.com/*",
         "*://*.abc.es/*",
         "*://*.abendblatt.de/*",
         "*://*.ad.nl/*",
@@ -160,6 +161,7 @@
         "*://*.geelongadvertiser.com.au/*",
         "*://*.gelderlander.nl/*",
         "*://*.gelocal.it/*",
+        "*://*.genomeweb.com/*",
         "*://*.gestion.pe/*",
         "*://*.gladstoneobserver.com.au/*",
         "*://*.glassdoor.com/*",
@@ -249,6 +251,7 @@
         "*://*.lesoir.be/*",
         "*://*.lest-eclair.fr/*",
         "*://*.letelegramme.fr/*",
+        "*://*.levante-emv.com/*",
         "*://*.lexpress.fr/*",
         "*://*.liberation-champagne.fr/*",
         "*://*.liberation.fr/*",
@@ -258,6 +261,7 @@
         "*://*.ln-online.de/*",
         "*://*.lne.es/*",
         "*://*.loebclassics.com/*",
+        "*://*.loeildelaphotographie.com/*",
         "*://*.lopinion.fr/*",
         "*://*.lorientlejour.com/*",
         "*://*.lrb.co.uk/*",
@@ -331,6 +335,7 @@
         "*://*.politicaexterior.com/*",
         "*://*.portnews.com.au/*",
         "*://*.post-gazette.com/*",
+        "*://*.precisiononcologynews.com/*",
         "*://*.prospectmagazine.co.uk/*",
         "*://*.pzc.nl/*",
         "*://*.qt.com.au/*",
@@ -408,6 +413,7 @@
         "*://*.themercury.com.au/*",
         "*://*.themorningbulletin.com.au/*",
         "*://*.thenation.com/*",
+        "*://*.thenewatlantis.com/*",
         "*://*.thepeterboroughexaminer.com/*",
         "*://*.thepointmag.com/*",
         "*://*.therecord.com/*",
@@ -490,5 +496,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.1.8.0"
+    "version": "2.1.9.0"
 }

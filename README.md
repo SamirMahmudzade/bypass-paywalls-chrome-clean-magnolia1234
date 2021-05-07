@@ -26,8 +26,9 @@ In extension developer mode you can always install BPC by `Load unpacked` (lates
 5. Enable Developer Mode.
 6. Click `Load unpacked` and select the extension folder.
 
-* by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).   
-* in Chrome/Opera/Brave to disable the developer mode extensions popup use the extensions toolbar menu (by default enabled in Chrome 87+ or (if available) enable (experimental) chrome flag: chrome://flags/#extensions-toolbar-menu)
+* By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).
+* For custom sites you can also copy manifest.json from custom folder to the main extension folder (in Chrome optional permissions can get lost on reload unless you do a crx-installation first; no 'whitelisting' needed).
+* In Chrome/Opera/Brave to disable the developer mode extensions popup use the extensions toolbar menu (by default enabled in Chrome 87+ or (if available) enable (experimental) chrome flag: chrome://flags/#extensions-toolbar-menu)
 
 If you're familiar with Git(Hub)-clients you can also clone this repo and update the extension that way (load unpacked folder used by Git(Hub)-client).
 
@@ -37,10 +38,10 @@ If you're familiar with Git(Hub)-clients you can also clone this repo and update
 1. Download the extension as a crx-file from the [releases page](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/releases).
 2. In your browser go to the extensions page.
 3. Enable Developer Mode.
-4. Drag your crx-file anywhere on the page to import it.
-5. If dragging crx-file does not work, try Chrome procedure (above).
+4. Drag your crx-file anywhere on the page to import it (when you have an active 'load unpacked' installation, first remove it (and backup your custom sites); for automatic update).
+5. If dragging crx-file does not work, try 'load unpacked' installation (above).
 
-* by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).   
+* By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).
 * In Windows 'whitelist' BPC (run as administrator one of the reg-files in [whitelist-downloads](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/whitelist)  
 If you already have 'whitelisted' extensions than you should change "1" to a new key (also change name of HLM-key for beta/developer versions of browsers).  
 Example Chrome-regfile:  
@@ -51,7 +52,8 @@ Windows Registry Editor Version 5.00
 #### Android
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=nl) or [Yandex Browser](https://play.google.com/store/apps/details?id=com.yandex.browser&hl=en) from the Google PlayStore.
 2. For Kiwi Browser load the CRX-file in releases (auto-updating, no whitelist needed, opt-in for custom sites not working (use kiwi-custom crx; updates to latest regular version)).
-3. For Yandex Browser follow Chrome instructions above (load unpacked; step 6: pick `manifest.json` instead of the folder).
+3. For Yandex Browser follow Chrome instructions above (load unpacked; step 6: pick  manifest.json instead of the folder). If it fails try Total Commander (as file manager).\
+For custom sites copy manifest.json from custom folder to the main extension folder (optional permissions are lost on reload).
 
 #### Firefox
 Visit the [Firefox repository](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) of Bypass Paywall Clean.
@@ -118,20 +120,23 @@ _* free articles only._
 [The Wall Street Journal](https://www.wsj.com)
 
 ##### Tech/Science
+[360Dx](https://www.360dx.com) -
 [Chemical & Engineering News](https://cen.acs.org) -
 [Chronicle of Higher Education](https://www.chronicle.com) -
 [Dark Reading](https://www.darkreading.com) -
 [Discover Magazine](https://www.discovermagazine.com) -
+[GenomeWeb](https://www.genomeweb.com) -
 [MIT Technology Review](https://www.technologyreview.com) -
 [National Geographic USA](https://www.nationalgeographic.com) -
 [Nautilus](https://nautil.us) -
+[Precision Oncology News](https://www.precisiononcologynews.com) -
 [Scientific American](https://www.scientificamerican.com)* -
 [Times Higher Education](https://www.timeshighereducation.com) -
 [Towards Data Science](https://www.towardsdatascience.com) -
 [VentureBeat](https://venturebeat.com) -
 [Wired](https://www.wired.com)
 
-#### Encyclopedia/Book library/Knowledge base
+##### Encyclopedia/Book library/Knowledge base
 [BBC History Extra](https://www.historyextra.com) -
 [Encyclopedia Britannica](https://www.britannica.com) -
 [Glassdoor](https://www.glassdoor.com) -
@@ -155,6 +160,7 @@ _* free articles only._
 [The Art Newspaper](https://www.theartnewspaper.com) -
 [The Athletic](https://theathletic.com) -
 [The Daily Beast](https://www.thedailybeast.com)* -
+[The New Atlantis](https://www.thenewatlantis.com) -
 [The Point Magazine](https://thepointmag.com) -
 [Vanity Fair](https://www.vanityfair.com) -
 [Variety](https://variety.com) -
@@ -238,7 +244,7 @@ Tribune Publishing Company sites like
 [London Review of Books](https://www.lrb.co.uk) -
 [New Left Review](https://newleftreview.org) -
 [Prospect Magazine](https://www.prospectmagazine.co.uk) -
-[The Athletic UK](https://theathletic.com) -
+[The Athletic UK](https://theathletic.co.uk) -
 [The Economist](https://www.economist.com) -
 [The Irish Times](https://www.irishtimes.com) -
 [The New Statesman](https://www.newstatesman.com) -
@@ -272,6 +278,7 @@ Alma Talent sites (grouped in options) like
 [Esprit](https://esprit.presse.fr) -
 [L'Express](https://www.lexpress.fr) -
 [L'Obs](https://www.nouvelobs.com) -
+[L'Oeil de la Photographie (fr/en)](https://loeildelaphotographie.com) -
 [L'Opinion](https://www.lopinion.fr) -
 [L'Usine Nouvelle](https://www.usinenouvelle.com) -
 [La Croix](https://www.la-croix.com) -
@@ -440,6 +447,7 @@ Grouped in options:\
 [La Nueva España](https://www.lne.es) -
 [La Provincia](https://www.laprovincia.es) -
 [La Vanguardia](https://www.lavanguardia.com) -
+[Levante-EMV](https://www.levante-emv.com) -
 [Política Exterior](https://www.politicaexterior.com)\
 Grouped in options:\
 Grupo Vocento (ABC) regional sites like
@@ -611,7 +619,8 @@ Remember to check the [previous requests](https://gitlab.com/magnolia1234/bypass
 ### Add custom site
 Add your own custom site (also for testing).  
 Check 'Options'-link in popup-menu and go to custom sites.  
-\* by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).\
+\* by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added.
+
 Make sure the (new) site is checked under Options (or check on/off-button).  
 By default sites' cookies/local storage are removed after page loads (to bypass article limit).  
 Also you can enable Googlebot user-agent, disable Javascript for (sub)domain(s)/external sources and/or set the referer (to Facebook, Google or Twitter; ignored when Googlebot is set).
