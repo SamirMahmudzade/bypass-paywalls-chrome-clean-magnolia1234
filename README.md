@@ -463,6 +463,7 @@ Grupo Vocento (ABC) regional sites like
 [La Rioja](https://www.larioja.com) -
 [La Verdad](https://www.laverdad.es) -
 [La Voz de Cádiz](https://www.lavozdigital.es) -
+[Las Provincias](https://www.lasprovincias.es) -
 [Sur](https://www.diariosur.es)
 
 ##### Sweden
@@ -562,7 +563,8 @@ Grupo Vocento (ABC) regional sites like
 [LiveMint](https://www.livemint.com) -
 [The Economic Times (ET Prime)](https://economictimes.indiatimes.com) -
 [The Hindu](https://www.thehindu.com) -
-[The Hindu BusinessLine](https://www.thehindubusinessline.com)
+[The Hindu BusinessLine](https://www.thehindubusinessline.com) -
+[Times of India](https://timesofindia.indiatimes.com)
 
 #### Israel
 [Globes](https://www.globes.co.il) -
