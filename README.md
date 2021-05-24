@@ -143,7 +143,7 @@ _* free articles only._
 [Loeb Classical Library](https://www.loebclassics.com) -
 [Philosophy Now](https://philosophynow.org) -
 [Quora](https://www.quora.com) -
-[Scribd](http://www.scribd.com) -
+[Scribd](https://www.scribd.com) -
 [Slader](https://www.slader.com) -
 [Statista](https://www.statista.com)
 
@@ -343,7 +343,6 @@ Groupe Rossel sites (grouped in options) like
 [Handelsblatt](https://www.handelsblatt.com) -
 [Krautreporter.de](https://krautreporter.de) -
 [Kurier.at](https://kurier.at) -
-[Mitteldeutsche Zeitung](https://www.mz-web.de) -
 [Neue Osnabrücker Zeitung](https://www.noz.de]) -
 [Nordwest Zeitung](https://www.nwzonline.de) -
 [Piqd.de](https://www.piqd.de) -
@@ -501,6 +500,7 @@ Grupo Vocento (ABC) regional sites like
 [Northern Territory News](https://www.ntnews.com.au) -
 [The Advertiser/AdelaideNow](https://www.adelaidenow.com.au) -
 [The Australian](https://www.theaustralian.com.au) -
+[The Chronicle](https://www.thechronicle.com.au) -
 [The Courier-Mail](https://www.couriermail.com.au) -
 [The Daily Telegraph](https://www.dailytelegraph.com.au) -
 [The Mercury Tasmania](https://www.themercury.com.au) -
@@ -541,7 +541,6 @@ Grupo Vocento (ABC) regional sites like
 [The Gympie Times](https://www.gympietimes.com.au) -
 [The Northern Star](https://www.northernstar.com.au) -
 [The Queensland Times](https://www.qt.com.au) -
-[Toowoomba Chronicle](https://www.thechronicle.com.au) -
 [Warwick Daily News](https://www.warwickdailynews.com.au)
 * opt-in to custom sites for unlisted
 
@@ -561,6 +560,7 @@ Grupo Vocento (ABC) regional sites like
 [Bloomberg Quint](https://www.bloombergquint.com)* -
 [Business Standard](https://www.business-standard.com) -
 [LiveMint](https://www.livemint.com) -
+[MediaNama](https://www.medianama.com) -
 [The Economic Times (ET Prime)](https://economictimes.indiatimes.com) -
 [The Hindu](https://www.thehindu.com) -
 [The Hindu BusinessLine](https://www.thehindubusinessline.com) -
@@ -587,7 +587,7 @@ Grupo Vocento (ABC) regional sites like
 [Folha de S. Paulo](https://www.folha.uol.com.br) -
 [O Estado de S. Paulo](https://estadao.com.br) -
 [O Globo](https://oglobo.globo.com) -
-[Valor Econômico](https://valor.globo.com)*
+[Valor Econômico](https://valor.globo.com)
 ##### Chile
 [Diario Financiero](https://www.df.cl) -
 [El Mercurio](https://digital.elmercurio.com) -

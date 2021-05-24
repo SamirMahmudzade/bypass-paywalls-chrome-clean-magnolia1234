@@ -118,6 +118,7 @@
         "*://*.dn.se/*",
         "*://*.dna.fr/*",
         "*://*.dvhn.nl/*",
+        "*://*.economictimes.com/*",
         "*://*.economictimes.indiatimes.com/*",
         "*://*.economist.com/*",
         "*://*.ed.nl/*",
@@ -274,6 +275,7 @@
         "*://*.marmai.fi/*",
         "*://*.maz-online.de/*",
         "*://*.mcall.com/*",
+        "*://*.medianama.com/*",
         "*://*.medium.com/*",
         "*://*.mediuutiset.fi/*",
         "*://*.mercuriovalpo.cl/*",
@@ -286,7 +288,6 @@
         "*://*.modernhealthcare.com/*",
         "*://*.morgenpost.de/*",
         "*://*.mv-voice.com/*",
-        "*://*.mz-web.de/*",
         "*://*.nation.africa/*",
         "*://*.nationalgeographic.com/*",
         "*://*.nationalpost.com/*",
@@ -494,6 +495,7 @@
         "*://*.jsdelivr.net/*",
         "*://*.lightboxcdn.com/*",
         "*://*.loader-cdn.azureedge.net/*",
+        "*://*.natgeofe.com/*",
         "*://*.nyt.com/*",
         "*://*.pasedigital.cl/*",
         "*://*.rcsobjects.it/*",
@@ -503,5 +505,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.2.1.0"
+    "version": "2.2.2.0"
 }
