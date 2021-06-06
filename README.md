@@ -168,6 +168,7 @@ _* free articles only._
 
 ##### Local USA news
 [Crain's Chicago Business](https://www.chicagobusiness.com) -
+[Honolulu Star-Advertiser](https://www.staradvertiser.com) -
 [Houston Chronicle](https://www.houstonchronicle.com) -
 [Los Angeles Business Journal](https://labusinessjournal.com) -
 [Los Angeles Times](https://www.latimes.com) -
@@ -559,6 +560,7 @@ Grupo Vocento (ABC) regional sites like
 #### India
 [Bloomberg Quint](https://www.bloombergquint.com)* -
 [Business Standard](https://www.business-standard.com) -
+[Hindustan Times](https://www.hindustantimes.com) -
 [LiveMint](https://www.livemint.com) -
 [MediaNama](https://www.medianama.com) -
 [The Economic Times (ET Prime)](https://economictimes.indiatimes.com) -
@@ -583,8 +585,9 @@ Grupo Vocento (ABC) regional sites like
 [Clarín](https://www.clarin.com) -
 [La Nación](https://www.lanacion.com.ar)
 ##### Brazil
-[Exame](https://exame.abril.com.br) -
+[Exame](https://exame.com) -
 [Folha de S. Paulo](https://www.folha.uol.com.br) -
+[Grupo Abril](https://grupoabril.com.br) -
 [O Estado de S. Paulo](https://estadao.com.br) -
 [O Globo](https://oglobo.globo.com) -
 [Valor Econômico](https://valor.globo.com)

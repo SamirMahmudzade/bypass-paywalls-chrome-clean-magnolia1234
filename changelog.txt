@@ -3,6 +3,16 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.2.3.0 (2021-05-30)
+Add Grupo Abril (Brazil)
+Add Hindustan Times (India)
+Add Honolulu Star-Advertiser (local USA)
+Fix-update Atlantico.fr
+Fix-update Australian Financial Review (videos)
+Fix-update Exame (domain)
+Fix-update GElocal.it (social)
+Fix-update WaPo (comments)
+
 * v2.2.2.0 (2021-05-23)
 Add MediaNama (India)
 Remove Mitteldeutsche Zeitung (obsolete)

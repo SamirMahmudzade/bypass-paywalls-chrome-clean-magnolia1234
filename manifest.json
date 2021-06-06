@@ -34,6 +34,7 @@
         "*://*.360dx.com/*",
         "*://*.abc.es/*",
         "*://*.abendblatt.de/*",
+        "*://*.abril.com.br/*",
         "*://*.ad.nl/*",
         "*://*.adelaidenow.com.au/*",
         "*://*.adweek.com/*",
@@ -142,7 +143,7 @@
         "*://*.estrepublicain.fr/*",
         "*://*.euobserver.com/*",
         "*://*.eurekareport.com.au/*",
-        "*://*.exame.abril.com.br/*",
+        "*://*.exame.com/*",
         "*://*.examiner.com.au/*",
         "*://*.expansion.com/*",
         "*://*.farodevigo.es/*",
@@ -185,6 +186,7 @@
         "*://*.hbrtaiwan.com/*",
         "*://*.heraldsun.com.au/*",
         "*://*.hilltimes.com/*",
+        "*://*.hindustantimes.com/*",
         "*://*.historyextra.com/*",
         "*://*.houstonchronicle.com/*",
         "*://*.hoy.es/*",
@@ -378,6 +380,7 @@
         "*://*.spectator.us/*",
         "*://*.standard.net.au/*",
         "*://*.star-telegram.com/*",
+        "*://*.staradvertiser.com/*",
         "*://*.startribune.com/*",
         "*://*.statista.com/*",
         "*://*.stcatharinesstandard.ca/*",
@@ -505,5 +508,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.2.2.0"
+    "version": "2.2.3.0"
 }
