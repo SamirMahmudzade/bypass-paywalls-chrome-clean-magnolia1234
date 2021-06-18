@@ -3,6 +3,15 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.2.5.0 (2021-06-13)
+Add The Wrap
+Fix-update Atlantico.fr
+Fix-update Folha de S. Paulo (add blogs)
+Fix-update La Stampa
+Fix-update Los Angeles Times (overlay)
+Fix-update Medium/Towards Data Science (multimedia)
+Fix-update TheTimes.co.uk (link to archive.is)
+
 * v2.2.4.0 (2021-06-06)
 Add group Crain's Business
 Add The Atlanta Journal-Constitution (local USA)
