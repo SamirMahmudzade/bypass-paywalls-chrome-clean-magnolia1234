@@ -177,6 +177,7 @@
         "*://*.globes.co.il/*",
         "*://*.globo.com/*",
         "*://*.goldcoastbulletin.com.au/*",
+        "*://*.gooieneemlander.nl/*",
         "*://*.griffithreview.com/*",
         "*://*.groene.nl/*",
         "*://*.grubstreet.com/*",
@@ -184,6 +185,7 @@
         "*://*.gympietimes.com.au/*",
         "*://*.haaretz.co.il/*",
         "*://*.haaretz.com/*",
+        "*://*.haarlemsdagblad.nl/*",
         "*://*.handelsblatt.com/*",
         "*://*.harpers.org/*",
         "*://*.haz.de/*",
@@ -198,6 +200,7 @@
         "*://*.hs.fi/*",
         "*://*.humo.be/*",
         "*://*.ideal.es/*",
+        "*://*.ijmuidercourant.nl/*",
         "*://*.ilfattoquotidiano.it/*",
         "*://*.ilgazzettino.it/*",
         "*://*.ilgiorno.it/*",
@@ -252,6 +255,7 @@
         "*://*.lecho.be/*",
         "*://*.ledauphine.com/*",
         "*://*.ledevoir.com/*",
+        "*://*.leidschdagblad.nl/*",
         "*://*.lejdd.fr/*",
         "*://*.lejsl.com/*",
         "*://*.leparisien.fr/*",
@@ -315,7 +319,6 @@
         "*://*.noordhollandsdagblad.nl/*",
         "*://*.nordeclair.fr/*",
         "*://*.northerndailyleader.com.au/*",
-        "*://*.northernstar.com.au/*",
         "*://*.nouvelobs.com/*",
         "*://*.noz.de/*",
         "*://*.nrc.nl/*",
@@ -514,5 +517,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.2.5.0"
+    "version": "2.2.6.0"
 }
