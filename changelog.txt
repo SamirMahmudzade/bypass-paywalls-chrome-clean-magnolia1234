@@ -3,6 +3,15 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.2.9.0 (2021-07-11)
+Add TradeWinds
+Fix Discover Magazine
+Fix Il Secolo XIX (amp-redirect)
+Fix Miami Herald (group McClatchy)
+Fix New Left Review (timing)
+Fix WaPo (disable Googlebot & fix amp/interactive)
+Maintenance contentScript (update sanitize html-input)
+
 * v2.2.8.0 (2021-07-04)
 Fix Le Parisien (Googlebot)
 Fix WaPo
