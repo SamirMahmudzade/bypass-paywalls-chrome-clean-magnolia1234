@@ -3,6 +3,21 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.3.0.1 (2021-07-26)
+Fix El Mercurio (timing)
+Fix custom sites (no useragent/referer on restart)
+
+* v2.3.0.0 (2021-07-25)
+Add NHST Media Group (TradeWinds)
+Add Southern Weekly (China)
+Fix Alma Talent sites
+Fix Bloomberg
+Fix Nikkei Asian Review (cookies)
+Fix Statista (set referer Google)
+Fix The Daily Telegraph (au)
+Fix Times of India (TOI+ region block)
+Fix WaPo (magazine)
+
 * v2.2.9.0 (2021-07-11)
 Add TradeWinds
 Fix Discover Magazine
