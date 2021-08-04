@@ -3,6 +3,20 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.3.1.0 (2021-08-01)
+Add Iltalehti.fi (Firefox-only)
+Add Marca (Spain)
+Grouping Quotidiano.net sites (Italy)
+Remove Le Un (obsolete)
+Fix Australia Nine sites
+Fix Commentary Magazine (new domain)
+Fix Gestion & El Comercio (Peru)
+Fix Grupo Vocento (Spain)
+Fix Financial News (London)
+Fix The Athletic (podcast)
+Fix WSJ (amp homepage link)
+Update remove cookies (faster)
+
 * v2.3.0.1 (2021-07-26)
 Fix El Mercurio (timing)
 Fix custom sites (no useragent/referer on restart)
@@ -48,7 +62,7 @@ Remove The Northern Star (obsolete)
 Fix Atlantico.fr
 Fix Boston Globe (no opt-in)
 Fix Foreign Policy
-Fix Group Tribune Publishing Company (overlay)
+Fix group Tribune Publishing Company (overlay)
 Fix The Globe and Mail
 Fix The Spectator UK (amp)
 

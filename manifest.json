@@ -97,7 +97,7 @@
         "*://*.cicero.de/*",
         "*://*.clarin.com/*",
         "*://*.cmjornal.pt/*",
-        "*://*.commentarymagazine.com/*",
+        "*://*.commentary.org/*",
         "*://*.corriere.it/*",
         "*://*.corriereadriatico.it/*",
         "*://*.courant.com/*",
@@ -217,6 +217,8 @@
         "*://*.ilmessaggero.it/*",
         "*://*.ilrestodelcarlino.it/*",
         "*://*.ilsecoloxix.it/*",
+        "*://*.iltalehti.fi/*",
+        "*://*.iltelegrafolivorno.it/*",
         "*://*.inc.com/*",
         "*://*.independent.ie/*",
         "*://*.infzm.com/*",
@@ -260,7 +262,6 @@
         "*://*.lavozdigital.es/*",
         "*://*.law.com/*",
         "*://*.lc.nl/*",
-        "*://*.le1hebdo.fr/*",
         "*://*.lecho.be/*",
         "*://*.ledauphine.com/*",
         "*://*.ledevoir.com/*",
@@ -291,6 +292,7 @@
         "*://*.lrb.co.uk/*",
         "*://*.lunion.fr/*",
         "*://*.lvz.de/*",
+        "*://*.marca.com/*",
         "*://*.marketwatch.com/*",
         "*://*.marmai.fi/*",
         "*://*.maz-online.de/*",
@@ -526,5 +528,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.3.0.1"
+    "version": "2.3.1.0"
 }

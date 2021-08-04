@@ -52,7 +52,7 @@ Windows Registry Editor Version 5.00
 #### Android
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=nl) or [Yandex Browser](https://play.google.com/store/apps/details?id=com.yandex.browser&hl=en) from the Google PlayStore.
 2. For Kiwi Browser load the CRX-file in releases (auto-updating, no whitelist needed, opt-in for custom sites not working (use kiwi-custom crx; updates to latest regular version)).
-3. For Yandex Browser follow Chrome instructions above (load unpacked; step 6: pick  manifest.json instead of the folder). If it fails try Total Commander (as file manager).\
+3. For Yandex Browser follow Chrome instructions above (load unpacked; step 6: pick  manifest.json instead of the folder). If it fails try a few times or use Total Commander (as file manager). You can use a Git client like MGit to clone (and update) this repository on your mobile device.\
 For custom sites copy manifest.json from custom folder to the main extension folder (optional permissions are lost on reload).
 
 #### Firefox
@@ -156,7 +156,7 @@ NHST Media Group sites like (opt-in to custom sites)
 [Apollo Magazine](https://www.apollo-magazine.com) -
 [Atavist Magazine](https://magazine.atavist.com) -
 [Billboard](https://www.billboard.com) -
-[Commentary Magazine](https://www.commentarymagazine.com) -
+[Commentary Magazine](https://www.commentary.org) -
 [First Things](https://www.firstthings.com) -
 [Medium](https://www.medium.com/topics) (for custom domains enable custom sites) -
 [National Review](https://www.nationalreview.com) -
@@ -278,6 +278,7 @@ Tribune Publishing Company sites like
 [Helsingin Sanomat](https://www.hs.fi)\
 Alma Talent sites (grouped in options) like
 [Arvopaperi](https://www.arvopaperi.fi) -
+[Iltalehti (Firefox-only)](https://www.iltalehti.fi/) -
 [Kauppalehti](https://www.kauppalehti.fi) -
 [Markkinointi & Mainonta](https://www.marmai.fi) -
 [Mediuutiset](https://www.mediuutiset.fi) -
@@ -305,7 +306,6 @@ Alma Talent sites (grouped in options) like
 [Le Journal du Net](https://www.journaldunet.com) -
 [Le Parisien](https://www.leparisien.fr) -
 [Le Télégramme](https://www.letelegramme.fr) -
-[Le Un](https://le1hebdo.fr) -
 [Les Échos](https://www.lesechos.fr) -
 [Libération](https://www.liberation.fr)* -
 [Paris Match](https://www.parismatch.com) -
@@ -394,23 +394,24 @@ Madsack Mediengruppe sites like (opt-in to custom sites for unlisted)
 [Domani](https://editorialedomani.it) -
 [GElocal.it](https://quotidiani.gelocal.it) -
 [Il Fatto Quotidiano](https://www.ilfattoquotidiano.it) -
-[Il Giorno](https://www.ilgiorno.it) -
 [Il Manifesto](https://ilmanifesto.it) -
-[Il Resto del Carlino](https://www.ilrestodelcarlino.it) -
-[Il Secolo XIX](https://www.ilsecoloxix.it) -
-[La Nazione](https://www.lanazione.it) -
+[[Il Secolo XIX](https://www.ilsecoloxix.it) -
 [La Nuova Sardegna](https://www.lanuovasardegna.it) -
 [La Repubblica](https://www.repubblica.it) -
 [La Stampa](https://www.lastampa.it) -
 [Le Scienze](https://www.lescienze.it) -
-[LimesOnline (it/en)](https://www.limesonline.com) -
-[Quotidiano.net](https://www.quotidiano.net)\
+[LimesOnline (it/en)](https://www.limesonline.com)\
 Grouped in options:\
 [Il Messaggero](https://www.ilmessaggero.it) and regional sites like
 [Corriere Adriatico](https://www.corriereadriatico.it) -
 [Il Gazzettino](https://www.ilgazzettino.it) -
 [Il Mattino](https://www.ilmattino.it) -
-[Quotidiano di Puglia](https://www.quotidianodipuglia.it)
+[Quotidiano di Puglia](https://www.quotidianodipuglia.it)\
+[Quotidiano Nazionale](https://www.quotidiano.net) and regional sites like
+[Il Giorno](https://www.ilgiorno.it) -
+[Il Resto del Carlino](https://www.ilrestodelcarlino.it) -
+[Il Telegrafo Livorno](https://www.iltelegrafolivorno.it) -
+[La Nazione](https://www.lanazione.it)
 
 ##### Netherlands/Flanders
 [Dagblad van het Noorden](https://www.dvhn.nl) -
@@ -427,8 +428,7 @@ Grouped in options:\
 [Parool](https://www.parool.nl) -
 [Telegraaf](https://www.telegraaf.nl) -
 [Trouw](https://www.trouw.nl) -
-[Volkskrant](https://www.volkskrant.nl)
-
+[Volkskrant](https://www.volkskrant.nl)\
 Grouped in options:\
 [Algemeen Dagblad](https://www.ad.nl) and regional ADR sites like
 [BN DeStem](https://www.bndestem.nl) -
@@ -468,6 +468,7 @@ Mediahuis Nederland Regional sites like
 [La Provincia](https://www.laprovincia.es) -
 [La Vanguardia](https://www.lavanguardia.com) -
 [Levante-EMV](https://www.levante-emv.com) -
+[Marca](https://www.marca.com) -
 [Política Exterior](https://www.politicaexterior.com)\
 Grouped in options:\
 Grupo Vocento (ABC) regional sites like
