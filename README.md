@@ -51,7 +51,7 @@ Windows Registry Editor Version 5.00
 
 #### Android
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=nl) or [Yandex Browser](https://play.google.com/store/apps/details?id=com.yandex.browser&hl=en) from the Google PlayStore.
-2. For Kiwi Browser load the CRX-file in releases (auto-updating, no whitelist needed, opt-in for custom sites not working (use kiwi-custom crx; updates to latest regular version)).
+2. For Kiwi Browser load the CRX-file in releases (auto-updating, no whitelist needed, opt-in for custom sites not working (use kiwi-custom crx; updates to latest regular version)) or use latest master zip-file (no automatic updates, for custom sites use manifest.json from custom folder).
 3. For Yandex Browser follow Chrome instructions above (load unpacked; step 6: pick  manifest.json instead of the folder). If it fails try a few times or use Total Commander (as file manager). You can use a Git client like MGit to clone (and update) this repository on your mobile device.\
 For custom sites copy manifest.json from custom folder to the main extension folder (optional permissions are lost on reload).
 
@@ -115,6 +115,7 @@ _* free articles only._
 [Seeking Alpha](https://seekingalpha.com) -
 [Stock News](https://stocknews.com) -
 [The Business Journals](https://www.bizjournals.com) -
+[The Business of Fashion](https://www.businessoffashion.com) -
 [The Wall Street Journal](https://www.wsj.com)
 
 Grouped in options:\
@@ -150,7 +151,8 @@ NHST Media Group sites like (opt-in to custom sites)
 [Quora](https://www.quora.com) -
 [Scribd](https://www.scribd.com) -
 [Slader](https://www.slader.com) -
-[Statista](https://www.statista.com)
+[Statista](https://www.statista.com) -
+[Study.com (no videos)](https://study.com)
 
 ##### Magazines/Blogs
 [Apollo Magazine](https://www.apollo-magazine.com) -
@@ -580,6 +582,7 @@ Grupo Vocento (ABC) regional sites like
 [Bloomberg Quint](https://www.bloombergquint.com)* -
 [Business Standard](https://www.business-standard.com) -
 [Hindustan Times](https://www.hindustantimes.com) -
+[Inc42](https://inc42.com) -
 [LiveMint](https://www.livemint.com) -
 [MediaNama](https://www.medianama.com) -
 [The Economic Times (ET Prime)](https://economictimes.indiatimes.com) -
@@ -662,7 +665,7 @@ You can also exclude a specific domain which is grouped in options.
 * Add usefull custom filter [Fanboy's Enhanced Tracking List](https://www.fanboy.co.nz/enhancedstats.txt)
 * If a site doesn't work, try turning off uBlock and refreshing.
 * Make sure the (new) site is checked under Options.
-* Make sure you're running the last version of Bypass Paywalls Clean.
+* Make sure you're running the latest version of Bypass Paywalls Clean.
 * If none of these work, you can submit an issue [here](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues).
 
 ### Changelog-releases

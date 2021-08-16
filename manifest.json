@@ -82,6 +82,7 @@
         "*://*.britannica.com/*",
         "*://*.business-standard.com/*",
         "*://*.businessinsider.com/*",
+        "*://*.businessoffashion.com/*",
         "*://*.cairnspost.com.au/*",
         "*://*.caixinglobal.com/*",
         "*://*.canberratimes.com.au/*",
@@ -220,6 +221,7 @@
         "*://*.iltalehti.fi/*",
         "*://*.iltelegrafolivorno.it/*",
         "*://*.inc.com/*",
+        "*://*.inc42.com/*",
         "*://*.independent.ie/*",
         "*://*.infzm.com/*",
         "*://*.inkl.com/*",
@@ -406,6 +408,7 @@
         "*://*.stcatharinesstandard.ca/*",
         "*://*.stocknews.com/*",
         "*://*.stratfor.com/*",
+        "*://*.study.com/*",
         "*://*.sudinfo.be/*",
         "*://*.sudouest.fr/*",
         "*://*.sueddeutsche.de/*",
@@ -507,7 +510,6 @@
         "*://*.adobedtm.com/*",
         "*://*.amazonaws.com/*",
         "*://*.apnarm.net.au/*",
-        "*://*.bwbx.io/*",
         "*://*.cedsdigital.it/*",
         "*://*.corriereobjects.it/*",
         "*://*.eestatic.com/*",
@@ -528,5 +530,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.3.1.0"
+    "version": "2.3.2.0"
 }
