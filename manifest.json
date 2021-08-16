@@ -40,6 +40,7 @@
         "webRequest",
         "webRequestBlocking",
         "*://*.360dx.com/*",
+        "*://*.aamulehti.fi/*",
         "*://*.abc.es/*",
         "*://*.abendblatt.de/*",
         "*://*.abril.com.br/*",
@@ -284,6 +285,7 @@
         "*://*.liberation.fr/*",
         "*://*.limesonline.com/*",
         "*://*.lindependant.fr/*",
+        "*://*.livelaw.com/*",
         "*://*.livemint.com/*",
         "*://*.ln-online.de/*",
         "*://*.lne.es/*",
@@ -521,14 +523,18 @@
         "*://*.jsdelivr.net/*",
         "*://*.lightboxcdn.com/*",
         "*://*.loader-cdn.azureedge.net/*",
+        "*://*.mcclatchy-wires.com/*",
+        "*://*.mcclatchyinteractive.com/*",
         "*://*.natgeofe.com/*",
         "*://*.nyt.com/*",
         "*://*.pasedigital.cl/*",
         "*://*.rcsobjects.it/*",
         "*://*.repstatic.it/*",
+        "*://*.rndtech.de/*",
+        "*://*.sanoma-sndp.fi/*",
         "*://*.userzoom.com/*",
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.3.2.0"
+    "version": "2.3.3.0"
 }

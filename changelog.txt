@@ -3,6 +3,15 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.3.3.0 (2021-08-15)
+Add Live Law (India)
+Add Sanoma Media Finland (+ aamulehti.fi & regional/opt-in)
+Fix group McClatchy (unlisted sites)
+Fix MediaNama (modal)
+Fix The Athletic
+Fix The Daily Beast (members-only)
+Fix WaPo (graphics)
+
 * v2.3.2.0 (2021-08-08)
 Add Inc42 (India)
 Add Study.com (no videos)

@@ -119,7 +119,7 @@ _* free articles only._
 [The Wall Street Journal](https://www.wsj.com)
 
 Grouped in options:\
-NHST Media Group sites like (opt-in to custom sites)
+NHST Media Group sites like
 [Intrafish](https://www.intrafish.com) -
 [Recharge](https://www.rechargenews.com) -
 [TradeWinds](https://www.tradewindsnews.com) -
@@ -168,7 +168,7 @@ NHST Media Group sites like (opt-in to custom sites)
 [Sports Illustrated](https://www.si.com) -
 [The Art Newspaper](https://www.theartnewspaper.com) -
 [The Athletic](https://theathletic.com) -
-[The Daily Beast](https://www.thedailybeast.com)* -
+[The Daily Beast](https://www.thedailybeast.com) -
 [The New Atlantis](https://www.thenewatlantis.com) -
 [The Point Magazine](https://thepointmag.com) -
 [The Wrap](https://www.thewrap.com) -
@@ -277,8 +277,13 @@ Tribune Publishing Company sites like
 [Berlingske](https://www.berlingske.dk)
 
 ##### Finland
-[Helsingin Sanomat](https://www.hs.fi)\
-Alma Talent sites (grouped in options) like
+Grouped in options:\
+Sanoma Media Finland sites like
+[Aamulehti](https://www.aamulehti.fi) -
+[Helsingin Sanomat](https://www.hs.fi)
+* opt-in to custom sites for unlisted/regional sites
+
+Alma Talent sites like
 [Arvopaperi](https://www.arvopaperi.fi) -
 [Iltalehti (Firefox-only)](https://www.iltalehti.fi/) -
 [Kauppalehti](https://www.kauppalehti.fi) -
@@ -583,6 +588,7 @@ Grupo Vocento (ABC) regional sites like
 [Business Standard](https://www.business-standard.com) -
 [Hindustan Times](https://www.hindustantimes.com) -
 [Inc42](https://inc42.com) -
+[Live Law](https://www.livelaw.in) -
 [LiveMint](https://www.livemint.com) -
 [MediaNama](https://www.medianama.com) -
 [The Economic Times (ET Prime)](https://economictimes.indiatimes.com) -
