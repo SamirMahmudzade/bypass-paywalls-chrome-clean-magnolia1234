@@ -199,6 +199,7 @@ Grouped in options:\
 [San Diego Union Tribune](https://www.sandiegouniontribune.com) -
 [San Francisco Chronicle](https://www.sfchronicle.com) -
 [Star Tribune](https://www.startribune.com) -
+[Tampa Bay Times](https://www.tampabay.com) -
 [The Atlanta Journal-Constitution](https://www.ajc.com) -
 [The Boston Globe](https://www.bostonglobe.com) -
 [The Dallas Morning News](https://www.dallasnews.com) -
@@ -326,6 +327,7 @@ Grouped in options:\
 [Science & Vie](https://www.science-et-vie.com) -
 [Sciences et Avenir](https://www.sciencesetavenir.fr) -
 [Sud Ouest](https://www.sudouest.fr) -
+[Télérama](https://www.telerama.fr) -
 [Valeurs Actuelles](https://www.valeursactuelles.com)
 
 Grouped in options:\
@@ -362,6 +364,7 @@ Grouped in options:\
 [SudInfo](https://www.sudinfo.be)
 
 ##### Germany/Austria
+[Aachener Zeitung](https://www.aachener-zeitung.de) -
 [Augsburger Allgemeine](https://www.augsburger-allgemeine.de) -
 [Berliner Zeitung](https://www.berliner-zeitung.de) -
 [Cicero](https://www.cicero.de) -
@@ -471,8 +474,6 @@ Grouped in options:\
 
 ##### Spain
 [ABC](https://www.abc.es) -
-[Diario de Ibiza](https://www.diariodeibiza.es) -
-[Diario de Mallorca](https://www.diariodemallorca.es) -
 [El Confidencial](https://www.elconfidencial.com) -
 [El Diario.es](https://www.eldiario.es) -
 [El Español](https://www.elespanol.com) -
@@ -480,15 +481,21 @@ Grouped in options:\
 [El País](https://elpais.com) -
 [El Periódico de Catalunya](https://www.elperiodico.com) -
 [Expansión](https://www.expansion.com) -
-[Faro de Vigo](https://www.farodevigo.es) -
-[La Nueva España](https://www.lne.es) -
-[La Provincia](https://www.laprovincia.es) -
 [La Vanguardia](https://www.lavanguardia.com) -
-[Levante-EMV](https://www.levante-emv.com) -
 [Marca](https://www.marca.com) -
 [Política Exterior](https://www.politicaexterior.com)
 
 Grouped in options:\
+*Grupo Prensa Ibérica* sites like\
+[Diario de Ibiza](https://www.diariodeibiza.es) -
+[Diario de Mallorca](https://www.diariodemallorca.es) -
+[El Día](https://www.eldia.es) -
+[El Periódico Mediterráneo](https://www.elperiodicomediterraneo.com) -
+[Faro de Vigo](https://www.farodevigo.es) -
+[Información](https://www.informacion.es) -
+[La Nueva España](https://www.lne.es) -
+[La Provincia](https://www.laprovincia.es) -
+[Levante-EMV](https://www.levante-emv.com)\
 *Grupo Vocento* (ABC regional) sites like\
 [Diario Vasco](https://www.diariovasco.com) -
 [El Comercio](https://www.elcomercio.es) -
@@ -509,7 +516,8 @@ Grouped in options:\
 [NyTeknik](https://www.nyteknik.se)
 
 ##### Switzerland
-[Neue Zürcher Zeitung](https://www.nzz.ch)
+[Neue Zürcher Zeitung](https://www.nzz.ch) -
+[The Market](https://themarket.ch)
 
 #### Africa
 
