@@ -3,6 +3,19 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.3.4.1 (2021-08-23)
+Fix group Crain Communications
+
+* v2.3.4.0 (2021-08-22)
+Add Ad Age & Automotive News (group Crain Communications)
+Add MediaNews Group (local USA)
+Add The Intercept
+Remove Slader (obsolete)
+Fix group Mediahuis Nederland Regional
+Fix Medium (timing)
+Fix The Australian
+Fix The Daily Beast (proper/images)
+
 * v2.3.3.0 (2021-08-15)
 Add Live Law (India)
 Add Sanoma Media Finland (+ aamulehti.fi & regional/opt-in)

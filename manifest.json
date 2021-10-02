@@ -45,6 +45,7 @@
         "*://*.abendblatt.de/*",
         "*://*.abril.com.br/*",
         "*://*.ad.nl/*",
+        "*://*.adage.com/*",
         "*://*.adelaidenow.com.au/*",
         "*://*.adweek.com/*",
         "*://*.afr.com/*",
@@ -61,6 +62,7 @@
         "*://*.atavist.com/*",
         "*://*.atlantico.fr/*",
         "*://*.augsburger-allgemeine.de/*",
+        "*://*.autonews.com/*",
         "*://*.baltimoresun.com/*",
         "*://*.barrons.com/*",
         "*://*.bd.nl/*",
@@ -134,6 +136,7 @@
         "*://*.dn.se/*",
         "*://*.dna.fr/*",
         "*://*.dvhn.nl/*",
+        "*://*.eastbaytimes.com/*",
         "*://*.economictimes.com/*",
         "*://*.economictimes.indiatimes.com/*",
         "*://*.economist.com/*",
@@ -357,6 +360,7 @@
         "*://*.paris-normandie.fr/*",
         "*://*.parismatch.com/*",
         "*://*.parool.nl/*",
+        "*://*.pe.com/*",
         "*://*.petitbleu.fr/*",
         "*://*.philosophynow.org/*",
         "*://*.pilotonline.com/*",
@@ -394,7 +398,6 @@
         "*://*.sfchronicle.com/*",
         "*://*.shz.de/*",
         "*://*.si.com/*",
-        "*://*.slader.com/*",
         "*://*.slate.com/*",
         "*://*.sloanreview.mit.edu/*",
         "*://*.smh.com.au/*",
@@ -440,6 +443,7 @@
         "*://*.theglobeandmail.com/*",
         "*://*.thehindu.com/*",
         "*://*.thehindubusinessline.com/*",
+        "*://*.theintercept.com/*",
         "*://*.thelogic.co/*",
         "*://*.themarker.com/*",
         "*://*.themercury.com.au/*",
@@ -470,6 +474,7 @@
         "*://*.tri-cityherald.com/*",
         "*://*.trouw.nl/*",
         "*://*.tubantia.nl/*",
+        "*://*.twincities.com/*",
         "*://*.upstreamonline.com/*",
         "*://*.usatoday.com/*",
         "*://*.usinenouvelle.com/*",
@@ -536,5 +541,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.3.3.0"
+    "version": "2.3.4.1"
 }
