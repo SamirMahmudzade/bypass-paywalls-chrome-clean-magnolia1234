@@ -170,6 +170,7 @@
         "*://*.financialpost.com/*",
         "*://*.firstthings.com/*",
         "*://*.fnlondon.com/*",
+        "*://*.forbes.com/*",
         "*://*.folha.uol.com.br/*",
         "*://*.foreignaffairs.com/*",
         "*://*.foreignpolicy.com/*",
@@ -267,6 +268,8 @@
         "*://*.lavoixdunord.fr/*",
         "*://*.lavozdigital.es/*",
         "*://*.law.com/*",
+        "*://*.law360.com/*",
+        "*://*.law360news.com/*",
         "*://*.lc.nl/*",
         "*://*.lecho.be/*",
         "*://*.ledauphine.com/*",
@@ -533,13 +536,11 @@
         "*://*.natgeofe.com/*",
         "*://*.nyt.com/*",
         "*://*.pasedigital.cl/*",
-        "*://*.rcsobjects.it/*",
         "*://*.repstatic.it/*",
         "*://*.rndtech.de/*",
         "*://*.sanoma-sndp.fi/*",
-        "*://*.userzoom.com/*",
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.3.4.1"
+    "version": "2.3.5.0"
 }

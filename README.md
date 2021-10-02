@@ -105,10 +105,12 @@ _* free articles only._
 [Business Insider](https://www.businessinsider.com) -
 [Digiday](https://digiday.com) -
 [Entrepreneur](https://www.entrepreneur.com) -
+[Forbes](https://www.forbes.com) -
 [Fortune](https://fortune.com) -
 [Harvard Business Review](https://www.hbr.org) -
 [Inc.com](https://www.inc.com) -
 [Law.com](https://www.law.com)* -
+[Law360](https://www.law360.com)* -
 [MarketWatch](https://www.marketwatch.com) -
 [MIT Sloan Management Review](https://sloanreview.mit.edu) -
 [Quartz](https://qz.com)* -
@@ -404,7 +406,7 @@ Grouped in options:\
 [Ostsee-Zeitung](https://www.ostsee-zeitung.de)
 
 ##### Italy
-[Corriere Della Sera](https://www.corriere.it) -
+[Corriere della Sera](https://www.corriere.it) -
 [Domani](https://editorialedomani.it) -
 [GElocal.it](https://quotidiani.gelocal.it) -
 [Il Fatto Quotidiano](https://www.ilfattoquotidiano.it) -
