@@ -3,6 +3,17 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.3.6.0 (2021-09-05)
+Remove WirtschaftsWoche (obsolete)
+Fix Estadao.com.br
+Fix Gestion & El Comercio (Peru)
+Fix Handelsblatt (only non-premium articles)
+Fix Il Fatto Quotidiano
+Fix Il Secolo XIX (mobile)
+Fix NyTeknik (images)
+Fix NzHerald
+Fix shz.de & svz.de
+
 * v2.3.5.0 (2021-08-29)
 Add Forbes
 Add Law360 (free articles only)
@@ -618,7 +629,7 @@ Update paywall scripts: MatherAnalytics
 
 * v1.7.7.0 (2020-06-28)
 Add ABC.es
-Add ilFattoQuotidiano.it
+Add Il Fatto Quotidiano (Italy)
 Add Knack.be
 Add Slader
 Fix Quartz (non-premium)

@@ -27,7 +27,8 @@
     ],
     "content_scripts": [{
         "matches": [
-            "*://*.nationalgeographic.com/*"
+            "*://*.nationalgeographic.com/*",
+            "*://*.nyteknik.se/*"
         ],
         "run_at": "document_start",
         "js": ["contentScript_once.js"]
@@ -498,7 +499,6 @@
         "*://*.wellandtribune.ca/*",
         "*://*.westernadvocate.com.au/*",
         "*://*.wired.com/*",
-        "*://*.wiwo.de/*",
         "*://*.worldpoliticsreview.com/*",
         "*://*.wp.de/*",
         "*://*.wr.de/*",
@@ -542,5 +542,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.3.5.0"
+    "version": "2.3.6.0"
 }
