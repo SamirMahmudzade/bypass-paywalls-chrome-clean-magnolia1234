@@ -3,6 +3,16 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.4.0.0 (2021-10-17)
+Add Westfaelische Nachrichten (Germany)
+Remove Australian Provincial Newspapers (obsolete)
+Fix GElocal.it
+Fix National Review
+Fix Ruhr Nachrichten (amp)
+Fix Tech in Asia (visual story)
+Update custom sites (block regex, amp unhide & add imported)
+Update options: enable new sites by default
+
 * v2.3.9.0 (2021-10-10)
 Add Lee Enterprises Group (local USA)
 Fix Chronicle of Higher Education

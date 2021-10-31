@@ -396,7 +396,8 @@ Grouped in options:\
 [Schleswig-Holsteinischer Zeitungsverlag](https://www.shz.de) -
 [Schweriner Volkszeitung](https://www.svz.de) -
 [Süddeutsche Zeitung](https://www.sueddeutsche.de) -
-[Westfalen-Blatt](https://www.westfalen-blatt.de)
+[Westfalen-Blatt](https://www.westfalen-blatt.de) -
+[Westfälische Nachrichten](https://www.wn.de)
 
 Grouped in options:\
 *Funke Mediengruppe* sites like\
@@ -578,18 +579,7 @@ Grouped in options:\
 [The Northern Daily Leader](https://www.northerndailyleader.com.au) -
 [The Port Macquarie News](https://www.portnews.com.au) -
 [The Standard](https://www.standard.net.au) -
-[Western Advocate](https://www.westernadvocate.com.au)\
-*Australian Provincial Newspapers* site like (opt-in to custom sites for unlisted)\
-[Bundaberg News Mail](https://www.news-mail.com.au) -
-[Fraser Coast Chronicle](https://www.frasercoastchronicle.com.au) -
-[Gladstone Observer](https://www.gladstoneobserver.com.au) -
-[Grafton Daily Examiner](https://www.dailyexaminer.com.au) -
-[Mackay Daily Mercury](https://www.dailymercury.com.au) -
-[Rockhampton Morning Bulletin](https://www.themorningbulletin.com.au) -
-[Sunshine Coast Daily](https://www.sunshinecoastdaily.com.au) -
-[The Gympie Times](https://www.gympietimes.com.au) -
-[The Queensland Times](https://www.qt.com.au) -
-[Warwick Daily News](https://www.warwickdailynews.com.au)
+[Western Advocate](https://www.westernadvocate.com.au)
 
 #### East Asia
 [Asia Times](https://asiatimes.com) -
@@ -679,9 +669,10 @@ Add your own custom site (also for testing).
 Check 'Options'-link in popup-menu and go to custom sites.  
 \* by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself.
 
-Make sure the (new) site is checked under Options (or check on/off-button).  
 By default sites' cookies/local storage are removed after page loads (to bypass article limit).  
-Also you can enable Googlebot/Bingbot user-agent, disable Javascript for (sub)domain(s)/external sources and/or set the referer (to Facebook, Google or Twitter; ignored when Googlebot is set).
+Also you can enable Googlebot/Bingbot user-agent, set the referer (to Facebook, Google or Twitter; ignored when Googlebot is set), disable Javascript for (sub)domain(s)/external sources, block regular expression and/or unhide text on amp-page.
+
+[Example list of custom sites](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/blob/master/custom/sites_custom.json) or [download list (json)](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/raw/master/custom/sites_custom.json)
 
 ### Add excluded site
 Add excluded sites/domains (for your subscriptions).\
