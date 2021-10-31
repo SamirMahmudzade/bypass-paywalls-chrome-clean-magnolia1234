@@ -284,7 +284,6 @@ Grouped in options:\
 [Prospect Magazine](https://www.prospectmagazine.co.uk) -
 [The Athletic UK](https://theathletic.co.uk) -
 [The Economist](https://www.economist.com) -
-[The Irish Times](https://www.irishtimes.com) -
 [The New Statesman](https://www.newstatesman.com) -
 [The Spectator](https://www.spectator.co.uk) -
 [The Telegraph](https://www.telegraph.co.uk) -
@@ -318,6 +317,7 @@ Grouped in options:\
 [Atlantico](https://atlantico.fr) -
 [Challenges](https://www.challenges.fr) -
 [Charlie Hebdo](https://charliehebdo.fr) -
+[Elle](https://www.elle.fr) -
 [Esprit](https://esprit.presse.fr) -
 [L'Express](https://www.lexpress.fr) -
 [L'Obs](https://www.nouvelobs.com) -
@@ -333,6 +333,7 @@ Grouped in options:\
 [Le Télégramme](https://www.letelegramme.fr) -
 [Les Échos](https://www.lesechos.fr) -
 [Libération](https://www.liberation.fr)* -
+[Marianne](https://www.marianne.net) -
 [Paris Match](https://www.parismatch.com) -
 [Science & Vie](https://www.science-et-vie.com) -
 [Sciences et Avenir](https://www.sciencesetavenir.fr) -
@@ -395,7 +396,6 @@ Grouped in options:\
 [Sächsische Zeitung](https://www.saechsische.de) -
 [Schleswig-Holsteinischer Zeitungsverlag](https://www.shz.de) -
 [Schweriner Volkszeitung](https://www.svz.de) -
-[Süddeutsche Zeitung](https://www.sueddeutsche.de) -
 [Westfalen-Blatt](https://www.westfalen-blatt.de) -
 [Westfälische Nachrichten](https://www.wn.de)
 

@@ -151,6 +151,7 @@
         "*://*.eldiario.es/*",
         "*://*.eldiariomontanes.es/*",
         "*://*.elespanol.com/*",
+        "*://*.elle.fr/*",
         "*://*.elmercurio.com/*",
         "*://*.elmundo.es/*",
         "*://*.elnortedecastilla.es/*",
@@ -233,7 +234,6 @@
         "*://*.inquirer.com/*",
         "*://*.intelligentinvestor.com.au/*",
         "*://*.intrafish.com/*",
-        "*://*.irishtimes.com/*",
         "*://*.japantimes.co.jp/*",
         "*://*.journaldunet.com/*",
         "*://*.journalnow.com/*",
@@ -303,6 +303,7 @@
         "*://*.lunion.fr/*",
         "*://*.lvz.de/*",
         "*://*.marca.com/*",
+        "*://*.marianne.net/*",
         "*://*.marketwatch.com/*",
         "*://*.marmai.fi/*",
         "*://*.maz-online.de/*",
@@ -418,7 +419,6 @@
         "*://*.study.com/*",
         "*://*.sudinfo.be/*",
         "*://*.sudouest.fr/*",
-        "*://*.sueddeutsche.de/*",
         "*://*.sun-sentinel.com/*",
         "*://*.svz.de/*",
         "*://*.talouselama.fi/*",
@@ -544,5 +544,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.4.0.0"
+    "version": "2.4.1.3"
 }
