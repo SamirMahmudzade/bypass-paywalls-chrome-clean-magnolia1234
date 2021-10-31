@@ -1,5 +1,9 @@
 # Bypass Paywalls Clean for Chrome
 
+Extension allows you to read articles from (supported) sites that implement a paywall.  
+You can also add domains as custom site and try to bypass the paywall.  
+Weekly updates are released for fixes and new sites.
+
 * [Installation](#installation)
 * [Update](#update)
 * [List of supported websites](#list-of-supported-websites)
@@ -10,6 +14,7 @@
 * [Troubleshooting](#troubleshooting)
 * [Changelog-releases](#changelog-releases)
 * [License](#license)
+* [Disclaimer](#disclaimer)
 
 ### Installation
 Due to [Google internal policy](https://developer.chrome.com/webstore/program_policies), the extension is not available on the Chrome Web Store.  
@@ -42,7 +47,7 @@ If you're familiar with Git(Hub)-clients you can also clone this repo and update
 5. If dragging crx-file does not work, try 'load unpacked' installation (above).
 
 * By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).
-* In Windows 'whitelist' BPC (run as administrator one of the reg-files in [whitelist-downloads](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/whitelist)  
+* In Windows 'whitelist' BPC: run as administrator one of the reg-files in [whitelist-downloads](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/tree/master/whitelist)  
 If you already have 'whitelisted' extensions than you should change "1" to a new key (also change name of HLM-key for beta/developer versions of browsers).  
 Example Chrome-regfile:  
 Windows Registry Editor Version 5.00  
@@ -360,6 +365,7 @@ Grouped in options:\
 [Le Soir](https://www.lesoir.be) -
 [Libération Champagne](https://www.liberation-champagne.fr) -
 [Nord Éclair](https://www.nordeclair.fr) -
+[Nord Littoral](https://www.nordlittoral.fr) -
 [Paris Normandie](https://www.paris-normandie.fr) -
 [SudInfo](https://www.sudinfo.be)
 
@@ -384,7 +390,8 @@ Grouped in options:\
 [Sächsische Zeitung](https://www.saechsische.de) -
 [Schleswig-Holsteinischer Zeitungsverlag](https://www.shz.de) -
 [Schweriner Volkszeitung](https://www.svz.de) -
-[Süddeutsche Zeitung](https://www.sueddeutsche.de)
+[Süddeutsche Zeitung](https://www.sueddeutsche.de) -
+[Westfalen-Blatt](https://www.westfalen-blatt.de)
 
 Grouped in options:\
 *Funke Mediengruppe* sites like\
@@ -438,7 +445,6 @@ Grouped in options:\
 [De Tijd](https://www.tijd.be) -
 [Financieele Dagblad](https://fd.nl) -
 [Follow the Money](https://www.ftm.nl) -
-[Gazet van Antwerpen](https://www.gva.be) -
 [Groene Amsterdammer](https://www.groene.nl) -
 [Humo](https://www.humo.be) -
 [Knack](https://www.knack.be) -
@@ -468,9 +474,6 @@ Grouped in options:\
 ##### Portugal
 [Correio da Manhã](https://www.cmjornal.pt) -
 [Observador](https://observador.pt)
-
-##### Russia
-[Republic.ru](https://republic.ru)
 
 ##### Spain
 [ABC](https://www.abc.es) -
@@ -696,3 +699,6 @@ You can also exclude a specific domain which is grouped in options.
 
 ### License
 * Bypass Paywalls Clean is [MIT-licensed](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/blob/master/LICENSE).
+
+### Disclaimer
+* This software is provided for educational purposes only and is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the authors or copyright holders be liable for any claim, damages or other liability, whether in an action of contract, tort or otherwise, arising from, out of or in connection with the software or the use or other dealings in the software.
