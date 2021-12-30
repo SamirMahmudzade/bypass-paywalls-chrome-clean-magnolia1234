@@ -91,7 +91,7 @@ _* free articles only._
 [The New York Review of Books](https://www.nybooks.com) -
 [The New York Times](https://www.nytimes.com) -
 [The New Yorker](https://www.newyorker.com) -
-[The Spectator USA](https://spectator.us) -
+[The Spectator World](https://spectatorworld.com) -
 [The Washington Post](https://www.washingtonpost.com) -
 [Time Magazine](https://time.com) -
 [World Politics Review](https://www.worldpoliticsreview.com)
@@ -209,6 +209,17 @@ Grouped in options:\
 
 [USA Today](https://www.usatoday.com)\
 Grouped in options:\
+*Advance Local* sites like:\
+[AL/Alabama](https://www.al.com) -
+[MLive/Michigan](https://www.mlive.com) -
+[NJ/New Jersey](https://www.nj.com) -
+[Staten Island Advance](https://www.silive.com) -
+[The Express-Times](https://www.lehighvalleylive.com) -
+[The Oregonian](https://www.oregonlive.com) -
+[The Patriot-News](https://www.pennlive.com) -
+[The Plain Dealer](https://www.cleveland.com) -
+[The Post-Standard](https://www.syracuse.com) -
+[The Republican](https://www.masslive.com)\
 *Gannett Group (local USA Today)* sites like (opt-in to custom sites)\
 [Detroit Free Press](https://www.freep.com) -
 [Milwaukee Journal Sentinel](https://www.jsonline.com) -
@@ -422,6 +433,7 @@ Grouped in options:\
 [Il Fatto Quotidiano](https://www.ilfattoquotidiano.it) -
 [Il Manifesto](https://ilmanifesto.it) -
 [Il Secolo XIX](https://www.ilsecoloxix.it) -
+[Italian.tech](https://www.italian.tech) -
 [La Nuova Sardegna](https://www.lanuovasardegna.it) -
 [La Repubblica](https://www.repubblica.it) -
 [La Stampa](https://www.lastampa.it) -
@@ -547,6 +559,7 @@ Grouped in options:\
 Grouped in options:\
 *News Corp Australia* site like\
 [Cairns Post](https://www.cairnspost.com.au) -
+[Code Sports](https://www.codesports.com.au) -
 [Geelong Advertiser](https://www.geelongadvertiser.com.au) -
 [Gold Coast Bulletin](https://www.goldcoastbulletin.com.au) -
 [Herald Sun](https://www.heraldsun.com.au) -
@@ -580,6 +593,7 @@ Grouped in options:\
 [Asia Times](https://asiatimes.com) -
 [Caixin Global](https://www.caixinglobal.com) -
 [CommonWealth Magazine Taiwan](https://www.cw.com.tw) -
+[DealStreetAsia](https://www.dealstreetasia.com) -
 [Harvard Business Review China](https://www.hbrchina.org) -
 [Harvard Business Review Taiwan](https://www.hbrtaiwan.com) -
 [Nikkei Asian Review](https://asia.nikkei.com) -
