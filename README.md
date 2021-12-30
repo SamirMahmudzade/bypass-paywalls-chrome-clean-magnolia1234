@@ -193,7 +193,7 @@ Grouped in options:\
 [Los Angeles Business Journal](https://labusinessjournal.com) -
 [Los Angeles Times](https://www.latimes.com) -
 [Mountain View Voice](https://www.mv-voice.com) -
-[New York Magazine](https://www.nymag.com) (+ [Curbed](https://www.curbed.com/), [Grub Street](https://www.grubstreet.com), [The Cut](https://www.thecut.com) & [Vulture](https://www.vulture.com)) -
+[New York Magazine](https://www.nymag.com) (+ [Curbed](https://www.curbed.com), [Grub Street](https://www.grubstreet.com), [The Cut](https://www.thecut.com) & [Vulture](https://www.vulture.com)) -
 [Newsday](https://www.newsday.com) -
 [Palo Alto Online](https://www.paloaltoonline.com) -
 [Pittsburgh Post Gazette](https://www.post-gazette.com) -
@@ -201,9 +201,11 @@ Grouped in options:\
 [San Francisco Chronicle](https://www.sfchronicle.com) -
 [Star Tribune](https://www.startribune.com) -
 [Tampa Bay Times](https://www.tampabay.com) -
+[The Advocate](https://www.theadvocate.com) -
 [The Atlanta Journal-Constitution](https://www.ajc.com) -
 [The Boston Globe](https://www.bostonglobe.com) -
 [The Dallas Morning News](https://www.dallasnews.com) -
+[The New Orleans Advocate/The Times-Picayune](https://www.nola.com) -
 [The Seattle Times](https://www.seattletimes.com) -
 [The Philadelphia Inquirer](https://www.inquirer.com) -
 [Winston-Salem Journal](https://www.journalnow.com)
@@ -222,7 +224,7 @@ Grouped in options:\
 [The Post-Standard](https://www.syracuse.com) -
 [The Republican](https://www.masslive.com)\
 *Gannett Group (local USA Today)* sites like (opt-in to custom sites for unlisted)\
-[Austin American-Statesman](https://www.statesman.com/) -
+[Austin American-Statesman](https://www.statesman.com) -
 [Detroit Free Press](https://www.freep.com) -
 [Milwaukee Journal Sentinel](https://www.jsonline.com) -
 [The Arizona Republic](https://www.azcentral.com) -
@@ -315,7 +317,7 @@ Grouped in options:\
 
 *Alma Talent* sites like\
 [Arvopaperi](https://www.arvopaperi.fi) -
-[Iltalehti (Firefox-only)](https://www.iltalehti.fi/) -
+[Iltalehti (Firefox-only)](https://www.iltalehti.fi) -
 [Kauppalehti](https://www.kauppalehti.fi) -
 [Markkinointi & Mainonta](https://www.marmai.fi) -
 [Mediuutiset](https://www.mediuutiset.fi) -
@@ -332,6 +334,7 @@ Grouped in options:\
 [Charlie Hebdo](https://charliehebdo.fr) -
 [Elle](https://www.elle.fr) -
 [Esprit](https://esprit.presse.fr) -
+[L'Écho](https://lecho.be) -
 [L'Express](https://www.lexpress.fr) -
 [L'Obs](https://www.nouvelobs.com) -
 [L'Oeil de la Photographie (fr/en)](https://loeildelaphotographie.com) -
@@ -377,7 +380,6 @@ Grouped in options:\
 [L'Ardennais](https://www.lardennais.fr) -
 [L'Est-Éclair](https://www.lest-eclair.fr) -
 [L'Union](https://www.lunion.fr) -
-[L'Écho](https://lecho.be) -
 [La Voix du Nord](https://www.lavoixdunord.fr) -
 [Le Courrier picard](https://www.courrier-picard.fr) -
 [Le Soir](https://www.lesoir.be) -
@@ -398,6 +400,8 @@ Grouped in options:\
 [Frankfurter Allgemeine Zeitung](https://www.faz.net) -
 [Freie Presse](https://www.freiepresse.de) -
 [Handelsblatt](https://www.handelsblatt.com)* -
+[Kölner Stadt-Anzeiger](https://www.ksta.de) -
+[Kölnische Rundschau](https://www.rundschau-online.de) -
 [Krautreporter.de](https://krautreporter.de) -
 [Kurier.at](https://kurier.at) -
 [Mitteldeutsche Zeitung](https://www.mz.de) -
@@ -598,7 +602,6 @@ Grouped in options:\
 
 #### East Asia
 [Asia Times](https://asiatimes.com) -
-[Caixin Global](https://www.caixinglobal.com) -
 [CommonWealth Magazine Taiwan](https://www.cw.com.tw) -
 [DealStreetAsia](https://www.dealstreetasia.com) -
 [Harvard Business Review China](https://www.hbrchina.org) -
@@ -612,7 +615,7 @@ Grouped in options:\
 [The Japan Times](https://www.japantimes.co.jp)
 
 #### India
-[Bloomberg Quint](https://www.bloombergquint.com)* -
+[Bloomberg Quint](https://www.bloombergquint.com) -
 [Business Standard](https://www.business-standard.com) -
 [Hindustan Times](https://www.hindustantimes.com) -
 [Inc42](https://inc42.com) -
@@ -707,7 +710,7 @@ You can also exclude a specific domain which is grouped in options.
 
 ### Changelog-releases
 * Visit the [changelog page](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/blob/master/changelog.txt).
-* Or check the [commits](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/commits/master/).
+* Or check the [commits](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/commits/master).
 * [Download the latest version](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/releases)
 
 ### License
