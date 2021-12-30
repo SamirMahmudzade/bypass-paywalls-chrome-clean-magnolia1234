@@ -169,6 +169,7 @@ Grouped in options:\
 [Atavist Magazine](https://magazine.atavist.com) -
 [Billboard](https://www.billboard.com) -
 [Commentary Magazine](https://www.commentary.org) -
+[ESPN USA](https://www.espn.com) -
 [First Things](https://www.firstthings.com) -
 [Medium](https://www.medium.com/topics) (for custom domains enable custom sites) -
 [National Review](https://www.nationalreview.com) -
@@ -352,6 +353,7 @@ Grouped in options:\
 [Le Télégramme](https://www.letelegramme.fr) -
 [Le Vif](https://www.levif.be) -
 [Les Échos](https://www.lesechos.fr) -
+[Les Inrockuptibles](https://www.lesinrocks.com) -
 [Marianne](https://www.marianne.net) -
 [Paris Match](https://www.parismatch.com) -
 [Science & Vie](https://www.science-et-vie.com) -
@@ -487,7 +489,7 @@ Grouped in options:\
 [Vrij Nederland](https://www.nl.nl)
 
 Grouped in options:\
-[Algemeen Dagblad](https://www.ad.nl) and regional ADR sites like
+Algemeen Dagblad Regional (ADR) sites like
 [BN DeStem](https://www.bndestem.nl) -
 [Brabants Dagblad](https://www.bd.nl) -
 [Eindhovens Dagblad](https://www.ed.nl) -
@@ -618,7 +620,7 @@ Grouped in options:\
 [South China Morning Post](https://www.scmp.com) -
 [Southern Weekly](https://www.infzm.com) -
 [Tech in Asia](https://www.techinasia.com) -
-[The Diplomat](https://www.thediplomat.com) -
+[The Diplomat](https://thediplomat.com) -
 [The Japan Times](https://www.japantimes.co.jp)
 
 #### India
@@ -665,6 +667,8 @@ Grouped in options:\
 [La Estrella de Valparaíso](https://www.estrellavalpo.cl) -
 [La Segunda](https://digital.lasegunda.com) -
 [La Tercera](https://www.latercera.com)
+##### Columbia
+[El Espectador](https://www.elespectador.com)
 ##### Mexico
 [Mexico News Daily](https://mexiconewsdaily.com)
 ##### Peru
@@ -698,7 +702,7 @@ Check 'Options'-link in popup-menu and go to custom sites.
 \* by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself.
 
 By default sites' cookies/local storage are removed after page loads (to bypass article limit).  
-Also you can enable Googlebot/Bingbot user-agent, set the referer (to Facebook, Google or Twitter; ignored when Googlebot is set), disable Javascript for (sub)domain(s)/external sources, block regular expression and/or unhide text on amp-page.
+Also you can enable Googlebot/Bingbot user-agent, set referer (to Facebook, Google or Twitter; ignored when Googlebot is set), set random ip-address, disable Javascript for (sub)domain(s) and/or external domains, block regular expression and/or unhide text on (or when paywall(selector) redirect to) amp-page.
 
 [Example list of custom sites](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/blob/master/custom/sites_custom.json) or [download list (json)](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/raw/master/custom/sites_custom.json)
 

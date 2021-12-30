@@ -47,7 +47,6 @@
         "*://*.abc.es/*",
         "*://*.abendblatt.de/*",
         "*://*.abril.com.br/*",
-        "*://*.ad.nl/*",
         "*://*.adage.com/*",
         "*://*.adelaidenow.com.au/*",
         "*://*.adweek.com/*",
@@ -168,6 +167,8 @@
         "*://*.elperiodico.com/*",
         "*://*.elperiodicomediterraneo.com/*",
         "*://*.entrepreneur.com/*",
+        "*://*.elespectador.com/*",
+        "*://*.espn.com/*",
         "*://*.esprit.presse.fr/*",
         "*://*.estadao.com.br/*",
         "*://*.estrellavalpo.cl/*",
@@ -303,6 +304,7 @@
         "*://*.lescienze.it/*",
         "*://*.lesechos.com/*",
         "*://*.lesechos.fr/*",
+        "*://*.lesinrocks.com/*",
         "*://*.lesoir.be/*",
         "*://*.lest-eclair.fr/*",
         "*://*.letelegramme.fr/*",
@@ -583,5 +585,5 @@
         "*://*.wallkit.net/*",
         "*://*.wsj.net/*"
     ],
-    "version": "2.4.8.0"
+    "version": "2.4.9.0"
 }

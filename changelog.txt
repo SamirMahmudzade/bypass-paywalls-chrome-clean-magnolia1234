@@ -3,6 +3,18 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.4.9.0 (2021-12-26)
+Add El Espectador (Columbia)
+Add ESPN USA (news only)
+Add Les Inrockuptibles (France)
+Remove Algemeen Dagblad (now regional only)
+Fix Alma Talent sites (images & search)
+Fix Helsingin Sanomat (dynamic)
+Fix Lequipe.fr (json)
+Fix The Diplomat (cookies)
+Fix Times of India (amp)
+Update custom sites (random ip/amp redirect)
+
 * v2.4.8.0 (2021-12-19)
 Add Aachener-Nachrichten.de
 Add Allgaeuer-Zeitung.de
