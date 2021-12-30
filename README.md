@@ -197,6 +197,7 @@ Grouped in options:\
 [Newsday](https://www.newsday.com) -
 [Palo Alto Online](https://www.paloaltoonline.com) -
 [Pittsburgh Post Gazette](https://www.post-gazette.com) -
+[San Antonio Express-News](https://www.expressnews.com) -
 [San Diego Union Tribune](https://www.sandiegouniontribune.com) -
 [San Francisco Chronicle](https://www.sfchronicle.com) -
 [Star Tribune](https://www.startribune.com) -
@@ -335,18 +336,21 @@ Grouped in options:\
 [Elle](https://www.elle.fr) -
 [Esprit](https://esprit.presse.fr) -
 [L'Écho](https://lecho.be) -
+[L'Équipe](https://www.lequipe.fr) -
 [L'Express](https://www.lexpress.fr) -
 [L'Obs](https://www.nouvelobs.com) -
 [L'Oeil de la Photographie (fr/en)](https://loeildelaphotographie.com) -
 [L'Opinion](https://www.lopinion.fr) -
 [L'Usine Nouvelle](https://www.usinenouvelle.com) -
 [La Croix](https://www.la-croix.com) -
+[La Libre](https://www.lalibre.be) -
 [La Nouvelle République du Centre-Ouest](https://www.lanouvellerepublique.fr) -
 [La Tribune](https://www.latribune.fr) -
 [Le Journal du Dimanche](https://lejdd.fr) -
 [Le Journal du Net](https://www.journaldunet.com) -
 [Le Parisien](https://www.leparisien.fr) -
 [Le Télégramme](https://www.letelegramme.fr) -
+[Le Vif](https://www.levif.be) -
 [Les Échos](https://www.lesechos.fr) -
 [Marianne](https://www.marianne.net) -
 [Paris Match](https://www.parismatch.com) -
@@ -390,7 +394,9 @@ Grouped in options:\
 [SudInfo](https://www.sudinfo.be)
 
 ##### Germany/Austria
+[Aachener Nachrichten](https://www.aachener-nachrichten.de) -
 [Aachener Zeitung](https://www.aachener-zeitung.de) -
+[Allgäuer Zeitung](https://www.allgaeuer-zeitung.de) -
 [Augsburger Allgemeine](https://www.augsburger-allgemeine.de) -
 [Berliner Zeitung](https://www.berliner-zeitung.de) -
 [Cicero](https://www.cicero.de) -
@@ -477,7 +483,8 @@ Grouped in options:\
 [Parool](https://www.parool.nl) -
 [Telegraaf](https://www.telegraaf.nl) -
 [Trouw](https://www.trouw.nl) -
-[Volkskrant](https://www.volkskrant.nl)
+[Volkskrant](https://www.volkskrant.nl) -
+[Vrij Nederland](https://www.nl.nl)
 
 Grouped in options:\
 [Algemeen Dagblad](https://www.ad.nl) and regional ADR sites like
@@ -625,6 +632,7 @@ Grouped in options:\
 [The Economic Times (ET Prime)](https://economictimes.indiatimes.com) -
 [The Hindu](https://www.thehindu.com) -
 [The Hindu BusinessLine](https://www.thehindubusinessline.com) -
+[The Indian Express](https://indianexpress.com) -
 [Times of India](https://timesofindia.indiatimes.com)
 
 #### Israel
