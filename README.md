@@ -146,6 +146,7 @@ Grouped in options:\
 [National Geographic USA](https://www.nationalgeographic.com) -
 [Nautilus](https://nautil.us) -
 [Precision Oncology News](https://www.precisiononcologynews.com) -
+[Science](https://www.science.org)* -
 [Scientific American](https://www.scientificamerican.com)* -
 [Times Higher Education](https://www.timeshighereducation.com) -
 [Towards Data Science](https://www.towardsdatascience.com) -
@@ -185,12 +186,26 @@ Grouped in options:\
 [The Point Magazine](https://thepointmag.com) -
 [The Wrap](https://www.thewrap.com) -
 [Vanity Fair](https://www.vanityfair.com) -
-[Variety](https://variety.com) -
-[VeloNews](https://www.velonews.com)
+[Variety](https://variety.com)
+
+Grouped in options:\
+*Outside magazines* sites like:\
+[Backpacker](https://www.backpacker.com) -
+[Beta](https://www.betamtb.com) -
+[Clean Eating](https://www.cleaneatingmag.com) -
+[Climbing](https://www.climbing.com) -
+[Outside](https://www.outsideonline.com) -
+[Oxygen](https://www.oxygenmag.com) -
+[SKI](https://www.skimag.com) -
+[Trail Runner](https://www.trailrunnermag.com) -
+[Triathlete](https://www.triathlete.com) -
+[Vegetarian Times](https://www.vegetariantimes.com) -
+[VeloNews](https://www.velonews.com) -
+[Women's Running](https://www.womensrunning.com) -
+[Yoga Journal](https://www.yogajournal.com)
 
 ##### Local USA news
 [Honolulu Star-Advertiser](https://www.staradvertiser.com) -
-[Houston Chronicle](https://www.houstonchronicle.com) -
 [Los Angeles Business Journal](https://labusinessjournal.com) -
 [Los Angeles Times](https://www.latimes.com) -
 [Mountain View Voice](https://www.mv-voice.com) -
@@ -198,9 +213,7 @@ Grouped in options:\
 [Newsday](https://www.newsday.com) -
 [Palo Alto Online](https://www.paloaltoonline.com) -
 [Pittsburgh Post Gazette](https://www.post-gazette.com) -
-[San Antonio Express-News](https://www.expressnews.com) -
 [San Diego Union Tribune](https://www.sandiegouniontribune.com) -
-[San Francisco Chronicle](https://www.sfchronicle.com) -
 [Star Tribune](https://www.startribune.com) -
 [Tampa Bay Times](https://www.tampabay.com) -
 [The Advocate](https://www.theadvocate.com) -
@@ -236,6 +249,10 @@ Grouped in options:\
 [The Indianapolis Star](https://www.indystar.com) -
 [The Record (North Jersey)](https://www.northjersey.com) -
 [The Tennessean](http://www.tennessean.com)\
+*Hearst Communications (newspapers)* sites like (opt-in to custom sites for unlisted)\
+[Houston Chronicle](https://www.houstonchronicle.com) -
+[San Antonio Express-News](https://www.expressnews.com) -
+[San Francisco Chronicle](https://www.sfchronicle.com)\
 *Lee Enterprises Group* sites like (opt-in to custom sites for unlisted)\
 [Arizona Daily Star](https://tucson.com) -
 [Richmond Times-Dispatch](https://richmond.com) -
@@ -261,8 +278,10 @@ Grouped in options:\
 [The Denver Post](https://www.denverpost.com) -
 [The Mercury News](https://www.mercurynews.com) -
 [The Press-Enterprise](https://www.pe.com)\
+*TownNews sites (Blox CMS)* sites (opt-in to custom sites)\
 *Tribune Publishing Company* sites like\
 [Baltimore Sun](https://www.baltimoresun.com) -
+[Capital Gazette](https://www.capitalgazette.com) -
 [Chicago Tribune](https://www.chicagotribune.com) -
 [Daily Press](https://www.dailypress.com) -
 [Hartford Courant](https://www.courant.com) -
@@ -301,6 +320,7 @@ Grouped in options:\
 [Prospect Magazine](https://www.prospectmagazine.co.uk) -
 [The Athletic UK](https://theathletic.co.uk) -
 [The Economist](https://www.economist.com) -
+[The Independent](https://www.independent.co.uk) -
 [The New Statesman](https://www.newstatesman.com) -
 [The Spectator](https://www.spectator.co.uk) -
 [The Telegraph](https://www.telegraph.co.uk) -
@@ -336,7 +356,6 @@ Grouped in options:\
 [Charlie Hebdo](https://charliehebdo.fr) -
 [Elle](https://www.elle.fr) -
 [Esprit](https://esprit.presse.fr) -
-[L'Écho](https://lecho.be) -
 [L'Équipe](https://www.lequipe.fr) -
 [L'Express](https://www.lexpress.fr) -
 [L'Obs](https://www.nouvelobs.com) -
@@ -380,7 +399,11 @@ Grouped in options:\
 [La Nouvelle République des Pyrénées](https://www.nrpyrenees.fr) -
 [Le Petit Bleu d'Agen](https://www.petitbleu.fr) -
 [Midi Libre](https://www.midilibre.fr) -
-[Midi Olympique](https://www.midi-olympique.fr)  
+[Midi Olympique](https://www.midi-olympique.fr)\
+*Groupe Nice-Matin* sites like\
+[Monaco-Matin](https://www.monacomatin.mc) -
+[Nice-Matin](https://www.nicematin.com) -
+[Var-Matin](https://www.varmatin.com)\
 *Groupe Rossel* sites like\
 [L'Aisne nouvelle](https://www.aisnenouvelle.fr) -
 [L'Ardennais](https://www.lardennais.fr) -
@@ -396,8 +419,6 @@ Grouped in options:\
 [SudInfo](https://www.sudinfo.be)
 
 ##### Germany/Austria
-[Aachener Nachrichten](https://www.aachener-nachrichten.de) -
-[Aachener Zeitung](https://www.aachener-zeitung.de) -
 [Allgäuer Zeitung](https://www.allgaeuer-zeitung.de) -
 [Augsburger Allgemeine](https://www.augsburger-allgemeine.de) -
 [Berliner Zeitung](https://www.berliner-zeitung.de) -
@@ -448,7 +469,9 @@ Grouped in options:\
 [Corriere della Sera](https://www.corriere.it) -
 [Domani](https://editorialedomani.it) -
 [GElocal.it](https://quotidiani.gelocal.it) -
+[Huffingtonpost.it](https://www.huffingtonpost.it) -
 [Il Fatto Quotidiano](https://www.ilfattoquotidiano.it) -
+[Il Foglio](https://www.ilfoglio.it) -
 [Il Manifesto](https://ilmanifesto.it) -
 [Il Secolo XIX](https://www.ilsecoloxix.it) -
 [Internazionale](https://www.internazionale.it) -
@@ -474,7 +497,6 @@ Grouped in options:\
 ##### Netherlands/Flanders
 [Dagblad van het Noorden](https://www.dvhn.nl) -
 [De Morgen](https://www.demorgen.be) -
-[De Tijd](https://www.tijd.be) -
 [Financieele Dagblad](https://fd.nl) -
 [Follow the Money](https://www.ftm.nl) -
 [Groene Amsterdammer](https://www.groene.nl) -
@@ -573,7 +595,7 @@ Grouped in options:\
 [The Saturday Paper](https://www.thesaturdaypaper.com.au) -
 [The Spectator Australia](https://www.spectator.com.au) -
 [The Sydney Morning Herald](https://www.smh.com.au) -
-[The West Australian (+ regional)](https://thewest.com.au) -
+[The West Australian (+ regional/opt-in to custom sites)](https://thewest.com.au) -
 [WAtoday](https://www.watoday.com.au)
 
 Grouped in options:\
@@ -611,10 +633,11 @@ Grouped in options:\
 
 #### East Asia
 [Asia Times](https://asiatimes.com) -
-[CommonWealth Magazine Taiwan](https://www.cw.com.tw) -
+[CommonWealth Magazine Taiwan](https://www.cw.com.tw)* -
 [DealStreetAsia](https://www.dealstreetasia.com) -
 [Harvard Business Review China](https://www.hbrchina.org) -
 [Harvard Business Review Taiwan](https://www.hbrtaiwan.com) -
+[Mainichi Shimbun](https://mainichi.jp) -
 [Nikkei Asian Review](https://asia.nikkei.com) -
 [NK News](https://www.nknews.org)* -
 [South China Morning Post](https://www.scmp.com) -
@@ -644,9 +667,6 @@ Grouped in options:\
 [The Jerusalem Post](https://www.jpost.com) -
 [The Marker](https://www.themarker.com)
 
-#### Lebanon
-[L'Orient-Le Jour](https://www.lorientlejour.com)
-
 #### Latin America
 
 ##### Argentina
@@ -667,7 +687,7 @@ Grouped in options:\
 [La Estrella de Valparaíso](https://www.estrellavalpo.cl) -
 [La Segunda](https://digital.lasegunda.com) -
 [La Tercera](https://www.latercera.com)
-##### Columbia
+##### Colombia
 [El Espectador](https://www.elespectador.com)
 ##### Mexico
 [Mexico News Daily](https://mexiconewsdaily.com)
@@ -679,11 +699,7 @@ _* free articles only._
 
 ### Sites with limited number of free articles
 The free article limit can normally be bypassed by removing cookies for the site.  
-Click on the BPC-icon and then 'clear cookies'-button in the popup.  
-For user with the limited permissions BPC-version this will only work for supported sites; for other sites use:
-1. Install the extension [Cookie Remover](https://chrome.google.com/webstore/detail/cookie-remover/kcgpggonjhmeaejebeoeomdlohicfhce) or [Disable Cookies](https://chrome.google.com/webstore/detail/disable-cookies/lkmjmficaoifggpfapbffkggecbleang?hl=en).
-2. When coming across a paywall, click the cookie icon in your extension toolbar then refresh the page.
-
+Click on the BPC-icon and then 'clear cookies'-button in the popup (for unsupported sites grant permission for domain).  
 If removing the cookies works you can also add the site as a custom site.
 
 ### New site requests
