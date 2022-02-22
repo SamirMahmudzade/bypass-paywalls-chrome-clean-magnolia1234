@@ -3,6 +3,39 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.5.7.0 (2022-02-20)
+Remove Ruhr Nachrichten (fix obsolete)
+Fix Live Law
+Fix NewcastleHerald.com.au
+Fix Lequipe.fr (json)
+Fix Neue Osnabrucker Zeitung (amp)
+Fix Quotidiano.net sites
+Update block general paywall script (Pigeon)
+
+* v2.5.6.0 (2022-02-13)
+Add Condé Nast magazines & Vogue Business
+Add Diario Correo (Grupo El Comercio)
+Add Eastwest (it/en)
+Add Groupe Sud Ouest (France)
+Fix Australian Community Media (images)
+Fix Lequipe.fr & LesEchos.fr (refresh)
+Fix New York Magazine sites (cookies)
+Fix NYTimes (game stats)
+Fix Espresso.repubblica.it (amp)
+Fix SeekingAlpha (captcha)
+Fix TheTimes.co.uk (epaper & archive)
+Update block general paywall script (limit NewsMemory)
+
+* v2.5.5.0 (2022-02-06)
+Remove Iltalehti.fi (fix obsolete)
+Remove The Logic (fix obsolete)
+Fix Australia News Corp (video-still)
+Fix La Tercera (js)
+Fix MIT Technology Review (TinyPass)
+Fix TheTimes.co.uk (epaper)
+Fix Times Literary Supplement (set referer Google)
+Fix WaPo
+
 * v2.5.4.0 (2022-01-30)
 Add group Outside magazines
 Remove L'Orient-Le Jour (fix obsolete)
@@ -179,7 +212,7 @@ Update custom sites (block regex for default sites)
 
 * v2.4.0.0 (2021-10-17)
 Add Westfaelische Nachrichten (Germany)
-Remove Australian Provincial Newspapers (fix obsolete)
+Remove Australian Provincial Newspapers (obsolete)
 Fix GElocal.it
 Fix National Review
 Fix Ruhr Nachrichten (amp)
@@ -247,7 +280,7 @@ Fix group Crain Communications
 Add Ad Age & Automotive News (group Crain Communications)
 Add MediaNews Group (local USA)
 Add The Intercept
-Remove Slader (fix obsolete)
+Remove Slader (obsolete)
 Fix group Mediahuis Nederland Regional
 Fix Medium (timing)
 Fix The Australian
@@ -325,7 +358,7 @@ Update custom sites (set useragent Bingbot)
 
 * v2.2.6.0 (2021-06-20)
 Add group Mediahuis Nederland Regional
-Remove The Northern Star (fix obsolete)
+Remove The Northern Star (obsolete)
 Fix Atlantico.fr
 Fix Boston Globe (no opt-in)
 Fix Foreign Policy
@@ -505,7 +538,7 @@ Fix Cors Anywhere (link to allow access)
 Fix Il Secolo XIX (amp)
 Fix Medium custom domains (meter)
 Fix Statista (premium)
-Fix The Times (puzzles)
+Fix TheTimes.co.uk (puzzles)
 Update popup (not closing on switch/clear cookies)
 
 * v2.0.7.0 (2021-02-07)
@@ -1013,7 +1046,7 @@ Add Leeuwarder Courant & Dagblad van het Noorden (Netherlands)
 * v1.6.2.2 (2020-02-03)
 Add Fd.nl (Googlebot)
 Add Spectator.com.au & TheCourier.com.au
-Fix Repubblica.it - L'Espresso
+Fix Espresso.repubblica.it
 Fix TheAdvocate.com.au
 
 * v1.6.2.1 (2020-01-31)

@@ -31,7 +31,7 @@ In extension developer mode you can always install BPC by `Load unpacked` (lates
 5. Enable Developer Mode.
 6. Click `Load unpacked` and select the extension folder.
 
-* By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).
+*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` to ask for permission for current site).
 * For custom sites you can also copy manifest.json from custom folder to the main extension folder (in Chrome optional permissions can get lost on reload unless you do a crx-installation first; no allowlist is needed).
 * In Chrome/Opera/Brave to disable the developer mode extensions popup use the extensions toolbar menu (by default enabled in Chrome 87+ or (if available) enable (experimental) chrome flag: chrome://flags/#extensions-toolbar-menu)
 
@@ -45,7 +45,7 @@ If you're familiar with Git(Hub)-clients you can also clone this repo and update
 3. Enable Developer Mode.
 4. Drag your crx-file anywhere on the page to import it (when you have an active 'load unpacked' installation, first remove it (and backup your custom sites); for automatic update).
 
-* By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites).
+*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` to ask for permission for current site).
 
 #### Android
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=nl) or [Yandex Browser](https://play.google.com/store/apps/details?id=com.yandex.browser&hl=en) from the Google PlayStore.
@@ -58,12 +58,16 @@ For custom sites copy manifest.json from custom folder to the main extension fol
 #### Firefox
 Visit the [Firefox repository](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) of Bypass Paywall Clean.
 
+#### iOS/iPadOS
+Use adblocker with custom (content)filter: https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters
+
 #### Notes
 * This extension works best alongside the adblocker [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en).
 * On Yandex Android use [uBlock Origin development build](https://chrome.google.com/webstore/detail/ublock-origin-dev-build/cgbcahbpdhpcegmbfconppldiemgcoii).
 * Do not delete extension's folder from your computer/smartphone or Bypass Paywalls Clean (in developer mode) will disappear at restart.
 * In Chrome/Opera/Brave to disable the developer mode extensions popup use the extensions toolbar menu (by default enabled in Chrome 87+ or (if available) enable (experimental) chrome flag: chrome://flags/#extensions-toolbar-menu)
 * You will be logged out for most of the sites you have checked.
+* Some sites need to redirect to an amp-page (add an exception in your amp2html extension).
 
 ### Update
 For crx-installation: check for updates (in chrome://extensions).\
@@ -90,7 +94,6 @@ _* free articles only._
 [The New Republic](https://newrepublic.com) -
 [The New York Review of Books](https://www.nybooks.com) -
 [The New York Times](https://www.nytimes.com) -
-[The New Yorker](https://www.newyorker.com) -
 [The Spectator World](https://spectatorworld.com) -
 [The Washington Post](https://www.washingtonpost.com) -
 [Time Magazine](https://time.com) -
@@ -118,7 +121,8 @@ _* free articles only._
 [Stock News](https://stocknews.com) -
 [The Business Journals](https://www.bizjournals.com) -
 [The Business of Fashion](https://www.businessoffashion.com) -
-[The Wall Street Journal](https://www.wsj.com)
+[The Wall Street Journal](https://www.wsj.com) -
+[Vogue Business](https://www.voguebusiness.com)
 
 Grouped in options:\
 *Crain Communications* sites like\
@@ -150,8 +154,7 @@ Grouped in options:\
 [Scientific American](https://www.scientificamerican.com)* -
 [Times Higher Education](https://www.timeshighereducation.com) -
 [Towards Data Science](https://www.towardsdatascience.com) -
-[VentureBeat](https://venturebeat.com) -
-[Wired](https://www.wired.com)
+[VentureBeat](https://venturebeat.com)
 
 ##### Encyclopedia/Book library/Knowledge base
 [BBC History Extra](https://www.historyextra.com) -
@@ -185,10 +188,16 @@ Grouped in options:\
 [The New Atlantis](https://www.thenewatlantis.com) -
 [The Point Magazine](https://thepointmag.com) -
 [The Wrap](https://www.thewrap.com) -
-[Vanity Fair](https://www.vanityfair.com) -
 [Variety](https://variety.com)
 
 Grouped in options:\
+*Condé Nast magazines* sites like:\
+[Bon Appétit](https://www.bonappetit.com) -
+[GC](https://www.gq.com) -
+[The New Yorker](https://www.newyorker.com) -
+[Vanity Fair](https://www.vanityfair.com) -
+[Vogue USA](https://www.vogue.com) -
+[Wired](https://www.wired.com)\
 *Outside magazines* sites like:\
 [Backpacker](https://www.backpacker.com) -
 [Beta](https://www.betamtb.com) -
@@ -222,8 +231,7 @@ Grouped in options:\
 [The Dallas Morning News](https://www.dallasnews.com) -
 [The New Orleans Advocate/The Times-Picayune](https://www.nola.com) -
 [The Seattle Times](https://www.seattletimes.com) -
-[The Philadelphia Inquirer](https://www.inquirer.com) -
-[Winston-Salem Journal](https://www.journalnow.com)
+[The Philadelphia Inquirer](https://www.inquirer.com)
 
 [USA Today](https://www.usatoday.com)\
 Grouped in options:\
@@ -257,7 +265,8 @@ Grouped in options:\
 [Arizona Daily Star](https://tucson.com) -
 [Richmond Times-Dispatch](https://richmond.com) -
 [The Buffalo News](https://buffalonews.com) -
-[Tulsa World](https://tulsaworld.com)\
+[Tulsa World](https://tulsaworld.com) -
+[Winston-Salem Journal](https://www.journalnow.com)\
 *McClatchy Group* sites like (opt-in to custom sites for unlisted)\
 [Belleville News-Democrat](https://www.bnd.com) -
 [Fort Worth Star-Telegram](https://www.star-telegram.com) -
@@ -296,8 +305,7 @@ Grouped in options:\
 [Le Devoir](https://www.ledevoir.com) -
 [National Post](https://www.nationalpost.com) -
 [The Globe and Mail](https://www.theglobeandmail.com) -
-[The Hill Times](https://www.hilltimes.com) -
-[The Logic](https://thelogic.co)\
+[The Hill Times](https://www.hilltimes.com)\
 [The Toronto Star](https://www.thestar.com) and regional TorStar sites (grouped in options) like
 [Niagara Falls Review](https://www.niagarafallsreview.ca) -
 [Peterborough Examiner](https://www.thepeterboroughexaminer.com) -
@@ -339,7 +347,6 @@ Grouped in options:\
 
 *Alma Talent* sites like\
 [Arvopaperi](https://www.arvopaperi.fi) -
-[Iltalehti (Firefox-only)](https://www.iltalehti.fi) -
 [Kauppalehti](https://www.kauppalehti.fi) -
 [Markkinointi & Mainonta](https://www.marmai.fi) -
 [Mediuutiset](https://www.mediuutiset.fi) -
@@ -377,7 +384,6 @@ Grouped in options:\
 [Paris Match](https://www.parismatch.com) -
 [Science & Vie](https://www.science-et-vie.com) -
 [Sciences et Avenir](https://www.sciencesetavenir.fr) -
-[Sud Ouest](https://www.sudouest.fr) -
 [Télérama](https://www.telerama.fr) -
 [Valeurs Actuelles](https://www.valeursactuelles.com)
 
@@ -416,7 +422,11 @@ Grouped in options:\
 [Nord Éclair](https://www.nordeclair.fr) -
 [Nord Littoral](https://www.nordlittoral.fr) -
 [Paris Normandie](https://www.paris-normandie.fr) -
-[SudInfo](https://www.sudinfo.be)
+[SudInfo](https://www.sudinfo.be)\
+*Groupe Sud Ouest* sites like\
+[Charente libre](https://www.charentelibre.fr) -
+[La République des Pyrénées](https://www.larepubliquedespyrenees.fr) -
+[Sud Ouest](https://www.sudouest.fr)
 
 ##### Germany/Austria
 [Allgäuer Zeitung](https://www.allgaeuer-zeitung.de) -
@@ -438,7 +448,6 @@ Grouped in options:\
 [Nordwest Zeitung](https://www.nwzonline.de) -
 [Piqd.de](https://www.piqd.de) -
 [Rhein-Zeitung](https://www.rhein-zeitung.de) -
-[Ruhr Nachrichten](https://www.ruhrnachrichten.de) -
 [Schleswig-Holsteinischer Zeitungsverlag](https://www.shz.de) -
 [Schweriner Volkszeitung](https://www.svz.de) -
 [Westfalen-Blatt](https://www.westfalen-blatt.de) -
@@ -468,6 +477,7 @@ Grouped in options:\
 ##### Italy
 [Corriere della Sera](https://www.corriere.it) -
 [Domani](https://editorialedomani.it) -
+[Eastwest](https://eastwest.eu) -
 [GElocal.it](https://quotidiani.gelocal.it) -
 [Huffingtonpost.it](https://www.huffingtonpost.it) -
 [Il Fatto Quotidiano](https://www.ilfattoquotidiano.it) -
@@ -511,7 +521,7 @@ Grouped in options:\
 [Vrij Nederland](https://www.nl.nl)
 
 Grouped in options:\
-Algemeen Dagblad Regional (ADR) sites like
+*Algemeen Dagblad Regional (ADR)* sites like
 [BN DeStem](https://www.bndestem.nl) -
 [Brabants Dagblad](https://www.bd.nl) -
 [Eindhovens Dagblad](https://www.ed.nl) -
@@ -692,6 +702,8 @@ Grouped in options:\
 ##### Mexico
 [Mexico News Daily](https://mexiconewsdaily.com)
 ##### Peru
+*Grupo El Comercio* sites like:
+[Diario Correo](https://diariocorreo.pe) -
 [El Comercio](https://elcomercio.pe) -
 [Gestión](https://gestion.pe)
 
@@ -715,7 +727,7 @@ Remember to check the [previous requests](https://gitlab.com/magnolia1234/bypass
 ### Add custom site
 Add your own custom site (also for testing).  
 Check 'Options'-link in popup-menu and go to custom sites.  
-\* by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself.
+\*  by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` to ask for permission for current site).
 
 By default sites' cookies/local storage are removed after page loads (to bypass article limit).  
 Also you can enable Googlebot/Bingbot user-agent, set referer (to Facebook, Google or Twitter; ignored when Googlebot is set), set random ip-address, disable Javascript for (sub)domain(s) and/or external domains, block regular expression and/or unhide text on (or when paywall(selector) redirect to) amp-page.
