@@ -3,6 +3,39 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.6.0.0 (2022-03-13)
+Add Connaissance des Arts (France)
+Add El Tiempo (Colombia)
+Add LaMontagne.fr
+Add Volksstimme.de
+Fix American Affairs (js)
+Fix Bloomberg
+Fix Bloomberg Quint (amp)
+Fix Economist (js typo)
+Fix LaNouvelleRepublique.fr (js)
+Fix LesEchos.fr (investir)
+Fix NHST Media Group
+Update block general paywall script (Weborama.fr)
+
+* v2.5.9.0 (2022-03-06)
+Add Causeur.fr
+Add India Today (magazine)
+Add La Opinion de Malaga
+Add RugbyPass
+Fix Iltalehti.fi (Youtube video/image no source)
+Fix Inkl
+Fix Internazionale.it (menu/images)
+
+* v2.5.8.0 (2022-02-27)
+Add Cycling Tips
+Add Iltalehti.fi
+Add La Opinion de Murcia
+Add Postmedia Network (Canada)
+Remove NewcastleHerald.com.au (fix obsolete)
+Fix Westfalen-Blatt (gallery)
+Fix update check (GitLab CORS issue or BitBucket http error 429)
+Update custom sites (load text from json)
+
 * v2.5.7.0 (2022-02-20)
 Remove Ruhr Nachrichten (fix obsolete)
 Fix Live Law

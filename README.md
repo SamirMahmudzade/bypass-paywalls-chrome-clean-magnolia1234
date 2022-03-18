@@ -31,7 +31,7 @@ In extension developer mode you can always install BPC by `Load unpacked` (lates
 5. Enable Developer Mode.
 6. Click `Load unpacked` and select the extension folder.
 
-*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` to ask for permission for current site).
+*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` (BPC-icon) to ask for permission for current site).
 * For custom sites you can also copy manifest.json from custom folder to the main extension folder (in Chrome optional permissions can get lost on reload unless you do a crx-installation first; no allowlist is needed).
 * In Chrome/Opera/Brave to disable the developer mode extensions popup use the extensions toolbar menu (by default enabled in Chrome 87+ or (if available) enable (experimental) chrome flag: chrome://flags/#extensions-toolbar-menu)
 
@@ -45,13 +45,13 @@ If you're familiar with Git(Hub)-clients you can also clone this repo and update
 3. Enable Developer Mode.
 4. Drag your crx-file anywhere on the page to import it (when you have an active 'load unpacked' installation, first remove it (and backup your custom sites); for automatic update).
 
-*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` to ask for permission for current site).
+*  By default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` (BPC-icon) to ask for permission for current site).
 
 #### Android
 1. Install [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=nl) or [Yandex Browser](https://play.google.com/store/apps/details?id=com.yandex.browser&hl=en) from the Google PlayStore.
 2. For Kiwi Browser you have two options:
 * load the CRX-file in releases (auto-updating, no allowlist needed, opt-in for custom sites not working (use kiwi-custom crx; updates to latest regular version)
-* install latest master zip-file (no automatic updates, for custom sites use manifest.json from custom folder).
+* install latest master zip-file (no automatic updates, for custom sites use manifest.json from custom folder, clearing Kiwi-cache will also remove extension though).
 3. For Yandex Browser follow Chrome instructions above (load unpacked; step 6: pick  manifest.json instead of the folder). If it fails try a few times or use Total Commander (as file manager). You can use a Git client like MGit to clone (and update) this repository on your mobile device.\
 For custom sites copy manifest.json from custom folder to the main extension folder (optional permissions are lost on reload).
 
@@ -77,7 +77,7 @@ For new sites you also have to opt-in to custom sites/request permissions for ne
 
 ### List of supported websites
 
-_* free articles only._
+_* free/cached articles only._
 
 ##### World news
 [Foreign Affairs](https://www.foreignaffairs.com) -
@@ -178,6 +178,7 @@ Grouped in options:\
 [Medium](https://www.medium.com/topics) (for custom domains enable custom sites) -
 [National Review](https://www.nationalreview.com) -
 [Rolling Stone](https://www.rollingstone.com) -
+[RugbyPass](https://www.rugbypass.com) -
 [Slate](https://slate.com) -
 [SofRep](https://sofrep.com) -
 [Sports Illustrated](https://www.si.com) -
@@ -203,6 +204,7 @@ Grouped in options:\
 [Beta](https://www.betamtb.com) -
 [Clean Eating](https://www.cleaneatingmag.com) -
 [Climbing](https://www.climbing.com) -
+[Cycling Tips](https://cyclingtips.com) -
 [Outside](https://www.outsideonline.com) -
 [Oxygen](https://www.oxygenmag.com) -
 [SKI](https://www.skimag.com) -
@@ -301,12 +303,20 @@ Grouped in options:\
 [The Virginian-Pilot](https://www.pilotonline.com)
 
 #### Canada
-[Financial Post](https://www.financialpost.com) -
 [Le Devoir](https://www.ledevoir.com) -
-[National Post](https://www.nationalpost.com) -
 [The Globe and Mail](https://www.theglobeandmail.com) -
 [The Hill Times](https://www.hilltimes.com)\
-[The Toronto Star](https://www.thestar.com) and regional TorStar sites (grouped in options) like
+
+Grouped in options:\
+*Postmedia Network* sites like (opt-in to custom sites for unlisted)\
+[Calgary Herald](https://calgaryherald.com) -
+[Financial Post](https://www.financialpost.com) -
+[National Post](https://www.nationalpost.com) -
+[The Province](https://theprovince.com) -
+[Toronto Sun](https://torontosun.com) -
+[Vancouver Sun](https://vancouversun.com)\
+*TorStar* sites like\
+[The Toronto Star](https://www.thestar.com) and regional sites 
 [Niagara Falls Review](https://www.niagarafallsreview.ca) -
 [Peterborough Examiner](https://www.thepeterboroughexaminer.com) -
 [St. Catharines Standard](https://www.stcatharinesstandard.ca) -
@@ -347,6 +357,7 @@ Grouped in options:\
 
 *Alma Talent* sites like\
 [Arvopaperi](https://www.arvopaperi.fi) -
+[Iltalehti](https://www.iltalehti.fi) -
 [Kauppalehti](https://www.kauppalehti.fi) -
 [Markkinointi & Mainonta](https://www.marmai.fi) -
 [Mediuutiset](https://www.mediuutiset.fi) -
@@ -359,8 +370,10 @@ Grouped in options:\
 ##### France/Wallonia
 [Alternatives Economiques](https://www.alternatives-economiques.fr) -
 [Atlantico](https://atlantico.fr) -
+[Causeur](https://www.causeur.fr) -
 [Challenges](https://www.challenges.fr) -
 [Charlie Hebdo](https://charliehebdo.fr) -
+[Connaissance des Arts](https://www.connaissancedesarts.com) -
 [Elle](https://www.elle.fr) -
 [Esprit](https://esprit.presse.fr) -
 [L'Équipe](https://www.lequipe.fr) -
@@ -371,6 +384,7 @@ Grouped in options:\
 [L'Usine Nouvelle](https://www.usinenouvelle.com) -
 [La Croix](https://www.la-croix.com) -
 [La Libre](https://www.lalibre.be) -
+[La Montagne](https://www.lamontagne.fr) -
 [La Nouvelle République du Centre-Ouest](https://www.lanouvellerepublique.fr) -
 [La Tribune](https://www.latribune.fr) -
 [Le Journal du Dimanche](https://lejdd.fr) -
@@ -450,6 +464,7 @@ Grouped in options:\
 [Rhein-Zeitung](https://www.rhein-zeitung.de) -
 [Schleswig-Holsteinischer Zeitungsverlag](https://www.shz.de) -
 [Schweriner Volkszeitung](https://www.svz.de) -
+[Volksstimme](https://www.volksstimme.de) -
 [Westfalen-Blatt](https://www.westfalen-blatt.de) -
 [Westfälische Nachrichten](https://www.wn.de)
 
@@ -562,6 +577,8 @@ Grouped in options:\
 [Faro de Vigo](https://www.farodevigo.es) -
 [Información](https://www.informacion.es) -
 [La Nueva España](https://www.lne.es) -
+[La Opinión de Málaga](https://www.laopiniondemalaga.es) -
+[La Opinión de Murcia](https://www.laopiniondemurcia.es) -
 [La Provincia](https://www.laprovincia.es) -
 [Levante-EMV](https://www.levante-emv.com)\
 *Grupo Vocento* (ABC regional) sites like\
@@ -629,7 +646,6 @@ Grouped in options:\
 [Central Western Daily](https://www.centralwesterndaily.com.au) -
 [Daily Liberal](https://www.dailyliberal.com.au) -
 [Illawarra Mercury](https://www.illawarramercury.com.au) -
-[Newcastle Herald](https://www.newcastleherald.com.au) -
 [The Advocate](https://www.theadvocate.com.au) -
 [The Border Mail](https://www.bordermail.com.au) -
 [The Canberra Times](https://www.canberratimes.com.au) -
@@ -661,6 +677,7 @@ Grouped in options:\
 [Business Standard](https://www.business-standard.com) -
 [Hindustan Times](https://www.hindustantimes.com) -
 [Inc42](https://inc42.com) -
+[India Today](https://www.indiatoday.in) -
 [Live Law](https://www.livelaw.in) -
 [LiveMint](https://www.livemint.com) -
 [MediaNama](https://www.medianama.com) -
@@ -689,7 +706,7 @@ Grouped in options:\
 [Grupo Abril](https://grupoabril.com.br) -
 [O Estado de S. Paulo](https://estadao.com.br) -
 [O Globo](https://oglobo.globo.com) -
-[Valor Econômico](https://valor.globo.com)
+[Valor Econômico](https://valor.globo.com)*
 ##### Chile
 [Diario Financiero](https://www.df.cl) -
 [El Mercurio](https://digital.elmercurio.com) -
@@ -698,7 +715,8 @@ Grouped in options:\
 [La Segunda](https://digital.lasegunda.com) -
 [La Tercera](https://www.latercera.com)
 ##### Colombia
-[El Espectador](https://www.elespectador.com)
+[El Espectador](https://www.elespectador.com) -
+[El Tiempo](https://www.eltiempo.com)
 ##### Mexico
 [Mexico News Daily](https://mexiconewsdaily.com)
 ##### Peru
@@ -707,7 +725,7 @@ Grouped in options:\
 [El Comercio](https://elcomercio.pe) -
 [Gestión](https://gestion.pe)
 
-_* free articles only._
+_* free/cached articles only._
 
 ### Sites with limited number of free articles
 The free article limit can normally be bypassed by removing cookies for the site.  
@@ -730,7 +748,7 @@ Check 'Options'-link in popup-menu and go to custom sites.
 \*  by default BPC has limited permissions, but you can opt-in to enable custom sites (and also clear cookies/block general paywall-scripts for non-listed sites). You can also just request permissions for the custom sites you added yourself (or `clear cookies` to ask for permission for current site).
 
 By default sites' cookies/local storage are removed after page loads (to bypass article limit).  
-Also you can enable Googlebot/Bingbot user-agent, set referer (to Facebook, Google or Twitter; ignored when Googlebot is set), set random ip-address, disable Javascript for (sub)domain(s) and/or external domains, block regular expression and/or unhide text on (or when paywall(selector) redirect to) amp-page.
+Also you can enable Googlebot/Bingbot user-agent, set referer (to Facebook, Google or Twitter; ignored when Googlebot is set), set random ip-address, disable Javascript for (sub)domain(s) and/or external domains, block regular expression, unhide text on (or when paywall(selector) redirect to) amp-page and/or load text from json (paywall|article selector).
 
 [Example list of custom sites](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/blob/master/custom/sites_custom.json) or [download list (json)](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/raw/master/custom/sites_custom.json)
 
