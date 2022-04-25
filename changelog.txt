@@ -3,6 +3,76 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.6.6.0 (2022-04-24)
+Add Automobilwoche
+Add Better Nutrition, Gym Climber, Peloton, Podium Runner & Rock and Ice
+Add eNotes
+Add Italia Oggi
+Remove ilManifesto.it (fix obsolete)
+Fix Barron's (continue reading)
+Fix El Pais (amp/video)
+Fix Fortune (magazine)
+Fix The Spectator UK (amp-redirect)
+
+* v2.6.5.0 (2022-04-18)
+Add Aftonbladet.se
+Add Investors' Chronicle (UK)
+Add Nzz.ch Regional (opt-in to custom sites)
+Add Outlook India
+Fix ABC.es (mobile)
+Fix Adweek (free articles only)
+Fix Quartz (newsletter)
+Fix The Athletic (Ink-layout)
+Fix Vogue Business (amp)
+Update block general paywall script (Ensighten)
+Update block general paywall script (Evolok WordPress)
+
+* v2.6.4.0 (2022-04-10)
+Add El Periodico Extremadura
+Add Nuernberger Nachrichten
+Remove Algemeen Dagblad Regional (fix obsolete)
+Remove NK News (fix obsolete)
+Fix Berliner Zeitung (amp)
+Fix The Globe and Mail (sections)
+Fix The Hill Times (text)
+Fix (custom) group-sites (limit identify on image)
+Remove Cors Anywhere (cached articles)
+
+* v2.6.3.0 (2022-04-03)
+Add Diario Cordoba
+Add El Periodico de Aragon
+Add El Periodico de Espana
+Add La Opinion A Coruna
+Add La Opinion de Zamora
+Add RedaktionsNetzwerk Deutschland
+Fix Alma Talent sites (js-ads)
+Fix Australia News Corp (amp)
+Fix Helsingin Sanomat (dynamic-json)
+Fix Madsack Mediengruppe
+Fix NzHerald
+
+* v2.6.2.0 (2022-03-27)
+Add Badische Neueste Nachrichten
+Add iPolitics.ca
+Add LeNouvelEconomiste.fr
+Add Muenstersche Zeitung
+Add NewcastleHerald.com.au
+Add S&P Global
+Add Westdeutsche Zeitung
+Remove HBR Taiwan (fix obsolete)
+Fix Australian Community Media
+
+* v2.6.1.0 (2022-03-20)
+Add Franc-Tireur.fr
+Add group Hearst Communications magazines
+Add Mid-Day (India)
+Add Winnipeg Free Press (Canada)
+Fix Algemeen Dagblad (regional; refresh)
+Fix Folha de S. Paulo
+Fix Funke Mediengruppe (opt-in to custom sites for unlisted)
+Fix Lequipe.fr (refresh)
+Update layout BPC GitLab bio
+
 * v2.6.0.0 (2022-03-13)
 Add Connaissance des Arts (France)
 Add El Tiempo (Colombia)
@@ -508,7 +578,7 @@ Fix Wired (Googlebot)
 Fix WSJ (option to disable Googlebot; http error 500)
 
 * v2.1.3.0 (2021-03-21)
-Add Berliner-Zeitung.de
+Add Berliner Zeitung
 Add The Dallas Morning News (local USA)
 Add Entrepreneur
 Fix The Saturday Paper
@@ -980,7 +1050,7 @@ Fix LaDepeche.fr
 Fix LesEchos.fr (premium)
 Fix Miami Herald
 Add changelog & update json links (raw)
-Fix mismatch domain with url query string (use matchDomain also in background.js)
+Fix mismatch domain with url query string
 Resynch Chrome/Firefox code
 
 * v1.7.0.5 (2020-04-28)

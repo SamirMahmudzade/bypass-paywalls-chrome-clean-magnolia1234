@@ -100,7 +100,7 @@ _* free/cached articles only._
 [World Politics Review](https://www.worldpoliticsreview.com)
 
 ##### Business
-[Adweek](https://www.adweek.com) -
+[Adweek](https://www.adweek.com)* -
 [American Affairs](https://americanaffairsjournal.org) -
 [American Banker](https://www.americanbanker.com) -
 [Barron's](https://www.barrons.com) -
@@ -116,7 +116,8 @@ _* free/cached articles only._
 [Law360](https://www.law360.com)* -
 [MarketWatch](https://www.marketwatch.com) -
 [MIT Sloan Management Review](https://sloanreview.mit.edu) -
-[Quartz](https://qz.com)* -
+[Quartz](https://qz.com) -
+[S&P Global](https://www.spglobal.com) -
 [Seeking Alpha](https://seekingalpha.com) -
 [Stock News](https://stocknews.com) -
 [The Business Journals](https://www.bizjournals.com) -
@@ -159,6 +160,7 @@ Grouped in options:\
 ##### Encyclopedia/Book library/Knowledge base
 [BBC History Extra](https://www.historyextra.com) -
 [Encyclopedia Britannica](https://www.britannica.com) -
+[eNotes](https://www.enotes.com) -
 [Glassdoor](https://www.glassdoor.com) -
 [Loeb Classical Library](https://www.loebclassics.com) -
 [Philosophy Now](https://philosophynow.org) -
@@ -175,7 +177,7 @@ Grouped in options:\
 [Commentary Magazine](https://www.commentary.org) -
 [ESPN USA](https://www.espn.com) -
 [First Things](https://www.firstthings.com) -
-[Medium](https://www.medium.com/topics) (for custom domains enable custom sites) -
+[Medium](https://www.medium.com/topics)* (for custom domains enable custom sites) -
 [National Review](https://www.nationalreview.com) -
 [Rolling Stone](https://www.rollingstone.com) -
 [RugbyPass](https://www.rugbypass.com) -
@@ -199,19 +201,40 @@ Grouped in options:\
 [Vanity Fair](https://www.vanityfair.com) -
 [Vogue USA](https://www.vogue.com) -
 [Wired](https://www.wired.com)\
+*Hearst Communications magazines* sites like:\
+[Bicycling](https://www.bicycling.com) -
+[Cosmopolitan](https://www.cosmopolitan.com) -
+[Country Living](https://www.countryliving.com) -
+[Elle USA](https://www.elle.com) -
+[Esquire](https://www.esquire.com) -
+[Good Housekeeping](https://www.goodhousekeeping.com) -
+[House Beautiful](https://www.housebeautiful.com) -
+[Men's Health](https://www.menshealth.com) -
+[Popular Mechanics](https://www.popularmechanics.com) -
+[Prevention](https://www.prevention.com) -
+[Road & Track](https://www.roadandtrack.com) -
+[Runner's World](https://www.runnersworld.com) -
+[The Hollywood Reporter](https://www.hollywoodreporter.com) -
+[Town & Country](https://www.townandcountrymag.com) -
+[Women's Health](https://www.womenshealthmag.com)\
 *Outside magazines* sites like:\
 [Backpacker](https://www.backpacker.com) -
 [Beta](https://www.betamtb.com) -
+[Better Nutrition](https://www.betternutrition.com) -
 [Clean Eating](https://www.cleaneatingmag.com) -
 [Climbing](https://www.climbing.com) -
 [Cycling Tips](https://cyclingtips.com) -
+[Gym Climber](https://www.gymclimber.com) -
 [Outside](https://www.outsideonline.com) -
 [Oxygen](https://www.oxygenmag.com) -
+[Peloton](https://www.pelotonmagazine.com) -
+[Podium Runner](https://www.podiumrunner.com) -
+[Rock and Ice](https://www.rockandice.com) -
 [SKI](https://www.skimag.com) -
 [Trail Runner](https://www.trailrunnermag.com) -
 [Triathlete](https://www.triathlete.com) -
 [Vegetarian Times](https://www.vegetariantimes.com) -
-[VeloNews](https://www.velonews.com) -
+[Velo News](https://www.velonews.com) -
 [Women's Running](https://www.womensrunning.com) -
 [Yoga Journal](https://www.yogajournal.com)
 
@@ -303,9 +326,11 @@ Grouped in options:\
 [The Virginian-Pilot](https://www.pilotonline.com)
 
 #### Canada
+[iPolitics](https://www.ipolitics.ca) -
 [Le Devoir](https://www.ledevoir.com) -
 [The Globe and Mail](https://www.theglobeandmail.com) -
-[The Hill Times](https://www.hilltimes.com)\
+[The Hill Times](https://www.hilltimes.com) -
+[Winnipeg Free Press](https://www.winnipegfreepress.com)
 
 Grouped in options:\
 *Postmedia Network* sites like (opt-in to custom sites for unlisted)\
@@ -332,6 +357,7 @@ Grouped in options:\
 [Belfast Telegraph](https://www.belfasttelegraph.co.uk) -
 [Financial News](https://www.fnlondon.com) -
 [Financial Times](https://www.ft.com) -
+[Investors' Chronicle](https://www.investorschronicle.co.uk) -
 [Irish Independent](https://www.independent.ie) -
 [London Review of Books](https://www.lrb.co.uk) -
 [New Left Review](https://newleftreview.org) -
@@ -376,6 +402,7 @@ Grouped in options:\
 [Connaissance des Arts](https://www.connaissancedesarts.com) -
 [Elle](https://www.elle.fr) -
 [Esprit](https://esprit.presse.fr) -
+[Franc-Tireur](https://www.franc-tireur.fr) -
 [L'Équipe](https://www.lequipe.fr) -
 [L'Express](https://www.lexpress.fr) -
 [L'Obs](https://www.nouvelobs.com) -
@@ -389,6 +416,7 @@ Grouped in options:\
 [La Tribune](https://www.latribune.fr) -
 [Le Journal du Dimanche](https://lejdd.fr) -
 [Le Journal du Net](https://www.journaldunet.com) -
+[Le Nouvel Economiste](https://www.lenouveleconomiste.fr) -
 [Le Parisien](https://www.leparisien.fr) -
 [Le Télégramme](https://www.letelegramme.fr) -
 [Le Vif](https://www.levif.be) -
@@ -445,6 +473,8 @@ Grouped in options:\
 ##### Germany/Austria
 [Allgäuer Zeitung](https://www.allgaeuer-zeitung.de) -
 [Augsburger Allgemeine](https://www.augsburger-allgemeine.de) -
+[Automobilwoche](https://www.automobilwoche.de) -
+[Badische Neueste Nachrichten](https://www.bnn.de) -
 [Berliner Zeitung](https://www.berliner-zeitung.de) -
 [Cicero](https://www.cicero.de) -
 [Deutsche Wirtschafts Nachrichten](https://deutsche-wirtschafts-nachrichten.de) -
@@ -458,18 +488,21 @@ Grouped in options:\
 [Krautreporter.de](https://krautreporter.de) -
 [Kurier.at](https://kurier.at) -
 [Mitteldeutsche Zeitung](https://www.mz.de) -
-[Neue Osnabrücker Zeitung](https://www.noz.de]) -
+[Münstersche Zeitung](https://www.muensterschezeitung.de) -
+[Neue Osnabrücker Zeitung](https://www.noz.de) -
 [Nordwest Zeitung](https://www.nwzonline.de) -
+[Nürnberger Nachrichten](https://www.nn.de) -
 [Piqd.de](https://www.piqd.de) -
 [Rhein-Zeitung](https://www.rhein-zeitung.de) -
 [Schleswig-Holsteinischer Zeitungsverlag](https://www.shz.de) -
 [Schweriner Volkszeitung](https://www.svz.de) -
 [Volksstimme](https://www.volksstimme.de) -
+[Westdeutsche Zeitung](https://www.wz.de) -
 [Westfalen-Blatt](https://www.westfalen-blatt.de) -
 [Westfälische Nachrichten](https://www.wn.de)
 
 Grouped in options:\
-*Funke Mediengruppe* sites like\
+*Funke Mediengruppe* sites like (opt-in to custom sites for unlisted)\
 [Berliner Morgenpost](https://www.morgenpost.de) -
 [Braunschweiger Zeitung](https://www.braunschweiger-zeitung.de) -
 [Hamburger Abendblatt](https://www.abendblatt.de) -
@@ -487,7 +520,8 @@ Grouped in options:\
 [Lübecker Nachrichten](https://www.ln-online.de) -
 [Märkische Allgemeine](https://www.maz-online.de) -
 [Neue Presse (Hannover)](https://www.neuepresse.de) -
-[Ostsee-Zeitung](https://www.ostsee-zeitung.de)
+[Ostsee-Zeitung](https://www.ostsee-zeitung.de) -
+[RedaktionsNetzwerk Deutschland](https://www.rnd.de)
 
 ##### Italy
 [Corriere della Sera](https://www.corriere.it) -
@@ -497,9 +531,9 @@ Grouped in options:\
 [Huffingtonpost.it](https://www.huffingtonpost.it) -
 [Il Fatto Quotidiano](https://www.ilfattoquotidiano.it) -
 [Il Foglio](https://www.ilfoglio.it) -
-[Il Manifesto](https://ilmanifesto.it) -
 [Il Secolo XIX](https://www.ilsecoloxix.it) -
 [Internazionale](https://www.internazionale.it) -
+[Italia Oggi](https://www.italiaoggi.it) -
 [Italian.tech](https://www.italian.tech) -
 [La Nuova Sardegna](https://www.lanuovasardegna.it) -
 [La Repubblica](https://www.repubblica.it) -
@@ -536,14 +570,6 @@ Grouped in options:\
 [Vrij Nederland](https://www.nl.nl)
 
 Grouped in options:\
-*Algemeen Dagblad Regional (ADR)* sites like
-[BN DeStem](https://www.bndestem.nl) -
-[Brabants Dagblad](https://www.bd.nl) -
-[Eindhovens Dagblad](https://www.ed.nl) -
-[Gelderlander](https://www.gelderlander.nl) -
-[PZC](https://www.pzc.nl) -
-[Stentor](https://www.destentor.nl) -
-[Tubantia](https://tubantia.nl)\
 *Mediahuis Nederland Regional* sites like\
 [Noordhollands Dagblad](https://www.noordhollandsdagblad.nl) -
 [Haarlems Dagblad](https://www.haarlemsdagblad.nl) -
@@ -570,15 +596,21 @@ Grouped in options:\
 
 Grouped in options:\
 *Grupo Prensa Ibérica* sites like\
+[Diario Córdoba](https://www.diariocordoba.com) -
 [Diario de Ibiza](https://www.diariodeibiza.es) -
 [Diario de Mallorca](https://www.diariodemallorca.es) -
 [El Día](https://www.eldia.es) -
+[El Periódico de Aragón](https://www.elperiodicodearagon.com) -
+[El Periódico de España](https://www.ese.es) -
+[El Periódico Extremadura](https://www.elperiodicoextremadura.com) -
 [El Periódico Mediterráneo](https://www.elperiodicomediterraneo.com) -
 [Faro de Vigo](https://www.farodevigo.es) -
 [Información](https://www.informacion.es) -
 [La Nueva España](https://www.lne.es) -
+[La Opinión A Coruña](https://www.laopinioncoruna.es) -
 [La Opinión de Málaga](https://www.laopiniondemalaga.es) -
 [La Opinión de Murcia](https://www.laopiniondemurcia.es) -
+[La Opinión de Zamora](https://www.laopiniondezamora.es) -
 [La Provincia](https://www.laprovincia.es) -
 [Levante-EMV](https://www.levante-emv.com)\
 *Grupo Vocento* (ABC regional) sites like\
@@ -596,12 +628,13 @@ Grouped in options:\
 [Sur](https://www.diariosur.es)
 
 ##### Sweden
+[Aftonbladet](https://www.aftonbladet.se) -
 [Dagens Industri](https://www.di.se) -
-[Dagens Nyheter](https://www.dn.se) -
+[Dagens Nyheter](https://www.dn.se)* -
 [NyTeknik](https://www.nyteknik.se)
 
 ##### Switzerland
-[Neue Zürcher Zeitung](https://www.nzz.ch) -
+[Neue Zürcher Zeitung (+ regional/opt-in to custom sites)](https://www.nzz.ch) -
 [The Market](https://themarket.ch)
 
 #### Africa
@@ -646,6 +679,7 @@ Grouped in options:\
 [Central Western Daily](https://www.centralwesterndaily.com.au) -
 [Daily Liberal](https://www.dailyliberal.com.au) -
 [Illawarra Mercury](https://www.illawarramercury.com.au) -
+[Newcastle Herald](https://www.newcastleherald.com.au) -
 [The Advocate](https://www.theadvocate.com.au) -
 [The Border Mail](https://www.bordermail.com.au) -
 [The Canberra Times](https://www.canberratimes.com.au) -
@@ -662,10 +696,8 @@ Grouped in options:\
 [CommonWealth Magazine Taiwan](https://www.cw.com.tw)* -
 [DealStreetAsia](https://www.dealstreetasia.com) -
 [Harvard Business Review China](https://www.hbrchina.org) -
-[Harvard Business Review Taiwan](https://www.hbrtaiwan.com) -
 [Mainichi Shimbun](https://mainichi.jp) -
 [Nikkei Asian Review](https://asia.nikkei.com) -
-[NK News](https://www.nknews.org)* -
 [South China Morning Post](https://www.scmp.com) -
 [Southern Weekly](https://www.infzm.com) -
 [Tech in Asia](https://www.techinasia.com) -
@@ -681,6 +713,8 @@ Grouped in options:\
 [Live Law](https://www.livelaw.in) -
 [LiveMint](https://www.livemint.com) -
 [MediaNama](https://www.medianama.com) -
+[Mid-Day](https://www.mid-day.com) -
+[Outlook](https://www.outlookindia.com) -
 [The Economic Times (ET Prime)](https://economictimes.indiatimes.com) -
 [The Hindu](https://www.thehindu.com) -
 [The Hindu BusinessLine](https://www.thehindubusinessline.com) -
