@@ -67,7 +67,7 @@ Use adblocker with custom (content)filter: https://gitlab.com/magnolia1234/bypas
 * Do not delete extension's folder from your computer/smartphone or Bypass Paywalls Clean (in developer mode) will disappear at restart.
 * In Chrome/Opera/Brave to disable the developer mode extensions popup use the extensions toolbar menu (by default enabled in Chrome 87+ or (if available) enable (experimental) chrome flag: chrome://flags/#extensions-toolbar-menu)
 * You will be logged out for most of the sites you have checked.
-* Some sites need to redirect to an amp-page (add an exception in your amp2html extension).
+* Some sites need to redirect to an amp-page (add an exception in your `Redirect AMP to HTML` extension or disable Brave > Shields > Auto-redirect AMP pages).
 
 ### Update
 For crx-installation: check for updates (in chrome://extensions).\
@@ -154,7 +154,6 @@ Grouped in options:\
 [Science](https://www.science.org)* -
 [Scientific American](https://www.scientificamerican.com)* -
 [Times Higher Education](https://www.timeshighereducation.com) -
-[Towards Data Science](https://www.towardsdatascience.com) -
 [VentureBeat](https://venturebeat.com)
 
 ##### Encyclopedia/Book library/Knowledge base
@@ -170,16 +169,20 @@ Grouped in options:\
 [Study.com (no videos)](https://study.com)
 
 ##### Magazines/Blogs
+[Medium](https://www.medium.com)*\
+Grouped in options:\
+*Medium custom domains* like (opt-in to custom sites for unlisted):\
+[Better Programming](https://betterprogramming.pub) -
+[Towards Data Science](https://towardsdatascience.com)
+
 [Apollo Magazine](https://www.apollo-magazine.com) -
 [Artnet](https://www.artnet.com) -
 [Atavist Magazine](https://magazine.atavist.com) -
-[Billboard](https://www.billboard.com) -
 [Commentary Magazine](https://www.commentary.org) -
 [ESPN USA](https://www.espn.com) -
 [First Things](https://www.firstthings.com) -
-[Medium](https://www.medium.com/topics)* (for custom domains enable custom sites) -
 [National Review](https://www.nationalreview.com) -
-[Rolling Stone](https://www.rollingstone.com) -
+[Puck.news](https://puck.news) -
 [RugbyPass](https://www.rugbypass.com) -
 [Slate](https://slate.com) -
 [SofRep](https://sofrep.com) -
@@ -188,10 +191,10 @@ Grouped in options:\
 [The Athletic](https://theathletic.com) -
 [The Intercept](https://theintercept.com) -
 [The Daily Beast](https://www.thedailybeast.com) -
+[The Daily Wire](https://www.dailywire.com) -
 [The New Atlantis](https://www.thenewatlantis.com) -
 [The Point Magazine](https://thepointmag.com) -
-[The Wrap](https://www.thewrap.com) -
-[Variety](https://variety.com)
+[The Wrap](https://www.thewrap.com)
 
 Grouped in options:\
 *Condé Nast magazines* sites like:\
@@ -236,7 +239,13 @@ Grouped in options:\
 [Vegetarian Times](https://www.vegetariantimes.com) -
 [Velo News](https://www.velonews.com) -
 [Women's Running](https://www.womensrunning.com) -
-[Yoga Journal](https://www.yogajournal.com)
+[Yoga Journal](https://www.yogajournal.com)\
+*Penske Media Corporation* sites like:\
+[Billboard](https://www.billboard.com) -
+[Rolling Stone](https://www.rollingstone.com) -
+[Sportico](https://www.sportico.com) -
+[Variety](https://variety.com) -
+[WWD](https://wwd.com)
 
 ##### Local USA news
 [Honolulu Star-Advertiser](https://www.staradvertiser.com) -
@@ -330,6 +339,7 @@ Grouped in options:\
 [Le Devoir](https://www.ledevoir.com) -
 [The Globe and Mail](https://www.theglobeandmail.com) -
 [The Hill Times](https://www.hilltimes.com) -
+[The Lawyer's Daily](https://www.thelawyersdaily.ca) -
 [Winnipeg Free Press](https://www.winnipegfreepress.com)
 
 Grouped in options:\
@@ -369,7 +379,8 @@ Grouped in options:\
 [The Spectator](https://www.spectator.co.uk) -
 [The Telegraph](https://www.telegraph.co.uk) -
 [The Times (link to archive.today)](https://www.thetimes.co.uk) -
-[The Times Literary Supplement](https://www.the-tls.co.uk)
+[The Times Literary Supplement](https://www.the-tls.co.uk) -
+[UnHerd](https://unherd.com)
 
 ##### Denmark
 
@@ -403,6 +414,7 @@ Grouped in options:\
 [Elle](https://www.elle.fr) -
 [Esprit](https://esprit.presse.fr) -
 [Franc-Tireur](https://www.franc-tireur.fr) -
+[L'Écho](https://lecho.be) -
 [L'Équipe](https://www.lequipe.fr) -
 [L'Express](https://www.lexpress.fr) -
 [L'Obs](https://www.nouvelobs.com) -
@@ -414,6 +426,7 @@ Grouped in options:\
 [La Montagne](https://www.lamontagne.fr) -
 [La Nouvelle République du Centre-Ouest](https://www.lanouvellerepublique.fr) -
 [La Tribune](https://www.latribune.fr) -
+[La Vie](https://www.lavie.fr) -
 [Le Journal du Dimanche](https://lejdd.fr) -
 [Le Journal du Net](https://www.journaldunet.com) -
 [Le Nouvel Economiste](https://www.lenouveleconomiste.fr) -
@@ -554,14 +567,13 @@ Grouped in options:\
 [La Nazione](https://www.lanazione.it)
 
 ##### Netherlands/Flanders
-[Dagblad van het Noorden](https://www.dvhn.nl) -
 [De Morgen](https://www.demorgen.be) -
+[De Tijd](https://www.tijd.be) -
 [Financieele Dagblad](https://fd.nl) -
 [Follow the Money](https://www.ftm.nl) -
 [Groene Amsterdammer](https://www.groene.nl) -
 [Humo](https://www.humo.be) -
 [Knack](https://www.knack.be) -
-[Leeuwarder Courant](https://www.lc.nl) -
 [NRC Handelsblad](https://www.nrc.nl) -
 [Parool](https://www.parool.nl) -
 [Telegraaf](https://www.telegraaf.nl) -
@@ -575,11 +587,17 @@ Grouped in options:\
 [Haarlems Dagblad](https://www.haarlemsdagblad.nl) -
 [Leidsch Dagblad](https://www.leidschdagblad.nl) -
 [IJmuider Courant](https://www.ijmuidercourant.nl) -
-[De Gooi- en Eemlander](https://www.gooieneemlander.nl)
+[De Gooi- en Eemlander](https://www.gooieneemlander.nl)\
+*Mediahuis Noord* sites like (opt-in to custom sites for unlisted):\
+[Dagblad van het Noorden](https://www.dvhn.nl) -
+[Leeuwarder Courant](https://www.lc.nl)
 
 ##### Portugal
 [Correio da Manhã](https://www.cmjornal.pt) -
 [Observador](https://observador.pt)
+
+##### Slovenia
+[Finance.si](https://www.finance.si)
 
 ##### Spain
 [ABC](https://www.abc.es) -
@@ -595,24 +613,19 @@ Grouped in options:\
 [Política Exterior](https://www.politicaexterior.com)
 
 Grouped in options:\
-*Grupo Prensa Ibérica* sites like\
-[Diario Córdoba](https://www.diariocordoba.com) -
-[Diario de Ibiza](https://www.diariodeibiza.es) -
+*ARA* sites like:\
+[Ara.cat](https://www.ara.cat) -
+[Ara Balears](https://www.arabalears.cat)\
+*Grupo Prensa Ibérica* sites like (opt-in to custom sites for unlisted):\
 [Diario de Mallorca](https://www.diariodemallorca.es) -
 [El Día](https://www.eldia.es) -
-[El Periódico de Aragón](https://www.elperiodicodearagon.com) -
-[El Periódico de España](https://www.ese.es) -
-[El Periódico Extremadura](https://www.elperiodicoextremadura.com) -
-[El Periódico Mediterráneo](https://www.elperiodicomediterraneo.com) -
+[El Periódico de España](https://www.epe.es) -
 [Faro de Vigo](https://www.farodevigo.es) -
 [Información](https://www.informacion.es) -
 [La Nueva España](https://www.lne.es) -
-[La Opinión A Coruña](https://www.laopinioncoruna.es) -
-[La Opinión de Málaga](https://www.laopiniondemalaga.es) -
-[La Opinión de Murcia](https://www.laopiniondemurcia.es) -
-[La Opinión de Zamora](https://www.laopiniondezamora.es) -
 [La Provincia](https://www.laprovincia.es) -
-[Levante-EMV](https://www.levante-emv.com)\
+[Levante-EMV](https://www.levante-emv.com) -
+[Mallorca Zeitung](https://www.mallorcazeitung.es)\
 *Grupo Vocento* (ABC regional) sites like\
 [Diario Vasco](https://www.diariovasco.com) -
 [El Comercio](https://www.elcomercio.es) -
@@ -674,7 +687,7 @@ Grouped in options:\
 [The Mercury Tasmania](https://www.themercury.com.au) -
 [The Weekly Times](https://www.weeklytimesnow.com.au) -
 [Townsville Bulletin](https://www.townsvillebulletin.com.au)\
-*Australian Community Media (daily)* sites like (add to custom sites for unlisted & block general paywall-script Piano)\
+*Australian Community Media (daily)* sites like (opt-in to custom sites for unlisted)\
 [Bendigo Advertiser](https://www.bendigoadvertiser.com.au) -
 [Central Western Daily](https://www.centralwesterndaily.com.au) -
 [Daily Liberal](https://www.dailyliberal.com.au) -
@@ -687,14 +700,12 @@ Grouped in options:\
 [The Daily Advertiser](https://www.dailyadvertiser.com.au) -
 [The Examiner](https://www.examiner.com.au) -
 [The Northern Daily Leader](https://www.northerndailyleader.com.au) -
-[The Port Macquarie News](https://www.portnews.com.au) -
 [The Standard](https://www.standard.net.au) -
 [Western Advocate](https://www.westernadvocate.com.au)
 
 #### East Asia
 [Asia Times](https://asiatimes.com) -
 [CommonWealth Magazine Taiwan](https://www.cw.com.tw)* -
-[DealStreetAsia](https://www.dealstreetasia.com) -
 [Harvard Business Review China](https://www.hbrchina.org) -
 [Mainichi Shimbun](https://mainichi.jp) -
 [Nikkei Asian Review](https://asia.nikkei.com) -
@@ -702,7 +713,7 @@ Grouped in options:\
 [Southern Weekly](https://www.infzm.com) -
 [Tech in Asia](https://www.techinasia.com) -
 [The Diplomat](https://thediplomat.com) -
-[The Japan Times](https://www.japantimes.co.jp)
+[The Star Malaysia](https://www.thestar.com.my)
 
 #### India
 [Bloomberg Quint](https://www.bloombergquint.com) -
@@ -769,12 +780,12 @@ If removing the cookies works you can also add the site as a custom site.
 ### New site requests
 You can [submit a request for a new website](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues).  
 Please read the following instructions and share your results for a quicker process.  
-Remember to check the [previous requests](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues?scope=all&state=all) before asking for a new website.
-1. Visit an article on the site you want to bypass the paywall for and copy the article title.
-2. Open up a new incognito window (Ctrl+Shift+N) and paste the article title into Google.
-3. Click on the same article from the Google search results page. Or you can:
-4. Disable javascript on the website by clicking the button right icon </> on the uBlock Origin panel.
-5. Refresh the page.
+Remember to check the [previous requests](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean/-/issues?scope=all&state=all) before asking for a new website.  
+1. Open incognito window and search for article in Google search (or webcache).
+2. Clear cookies for the site (by this extension: opt-in to custom sites or grant permission for the site; also enables blocking of general paywall scripts).
+3. Disable Javascript on the site (by browser, uBlock Origin or other extension).
+4. Add the domain as custom site for more bypass options.
+5. Open page in reader view (by browser or extension).
 
 ### Add custom site
 Add your own custom site (also for testing).  

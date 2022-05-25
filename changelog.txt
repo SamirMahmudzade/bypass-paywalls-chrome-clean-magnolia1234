@@ -3,6 +3,48 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.7.0.0 (2022-05-22)
+Add group ARA.cat
+Add LaVie.fr
+Add Mallorca Zeitung
+Add The Lawyer's Daily (Canada)
+Fix ESPN USA (disable for Watch)
+Fix The Globe and Mail (revert to old fix)
+Fix TheTimes.co.uk (link to archive.is)
+Fix Times of India
+
+* v2.6.9.0 (2022-05-15)
+Add The Star Malaysia
+Add UnHerd (UK)
+Remove The Japan Times (fix obsolete)
+Fix Lequipe.fr (json)
+Fix Live Law (amp)
+Fix Telegraaf.nl
+Fix The Australian (The Oz)
+Fix The Dallas Morning News
+Update block general paywall script (GoogleTagManager)
+
+* v2.6.8.0 (2022-05-08)
+Add De Tijd & L'Echo
+Add Finance.si
+Add group Mediahuis Noord (opt-in to custom sites for unlisted)
+Add The Daily Wire
+Remove DealStreetAsia (fix obsolete)
+Fix Australian Community Media
+Fix Bloomberg (newsletters)
+Fix Knack.be & LeVif.be
+
+* v2.6.7.0 (2022-05-01)
+Add Puck.news
+Add Sportico & WWD (group Penske Media Corporation)
+Fix El Espectador
+Fix eNotes
+Fix Grupo Prensa Iberica (opt-in to custom sites for unlisted)
+Fix Lequipe.fr (json)
+Fix Medium custom domains
+Update badge (site with no fix; X)
+Update block general paywall script (Pico/Wordpress)
+
 * v2.6.6.0 (2022-04-24)
 Add Automobilwoche
 Add Better Nutrition, Gym Climber, Peloton, Podium Runner & Rock and Ice
@@ -60,7 +102,7 @@ Add NewcastleHerald.com.au
 Add S&P Global
 Add Westdeutsche Zeitung
 Remove HBR Taiwan (fix obsolete)
-Fix Australian Community Media
+Fix Australian Community Media (json)
 
 * v2.6.1.0 (2022-03-20)
 Add Franc-Tireur.fr
@@ -113,7 +155,7 @@ Fix NewcastleHerald.com.au
 Fix Lequipe.fr (json)
 Fix Neue Osnabrucker Zeitung (amp)
 Fix Quotidiano.net sites
-Update block general paywall script (Pigeon)
+Update block general paywall script (Pigeon/Wordpress)
 
 * v2.5.6.0 (2022-02-13)
 Add Condé Nast magazines & Vogue Business
