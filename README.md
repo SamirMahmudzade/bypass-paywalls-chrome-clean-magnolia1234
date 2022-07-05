@@ -164,9 +164,8 @@ Grouped in options:\
 [Loeb Classical Library](https://www.loebclassics.com) -
 [Philosophy Now](https://philosophynow.org) -
 [Quora](https://www.quora.com) -
-[Scribd](https://www.scribd.com) -
-[Statista](https://www.statista.com) -
-[Study.com (no videos)](https://study.com)
+[SlideShare](https://www.slideshare.net) -
+[Statista](https://www.statista.com)
 
 ##### Magazines/Blogs
 [Medium](https://www.medium.com)*\
@@ -176,6 +175,7 @@ Grouped in options:\
 [Towards Data Science](https://towardsdatascience.com)
 
 [Apollo Magazine](https://www.apollo-magazine.com) -
+[Artforum](https://www.artforum.com) -
 [Artnet](https://www.artnet.com) -
 [Atavist Magazine](https://magazine.atavist.com) -
 [Commentary Magazine](https://www.commentary.org) -
@@ -372,9 +372,10 @@ Grouped in options:\
 [London Review of Books](https://www.lrb.co.uk) -
 [New Left Review](https://newleftreview.org) -
 [Prospect Magazine](https://www.prospectmagazine.co.uk) -
-[The Athletic UK](https://theathletic.co.uk) -
+[The Banker](https://www.thebanker.com) -
 [The Economist](https://www.economist.com) -
 [The Independent](https://www.independent.co.uk) -
+[The Irish Times](https://www.irishtimes.com) -
 [The New Statesman](https://www.newstatesman.com) -
 [The Spectator](https://www.spectator.co.uk) -
 [The Telegraph](https://www.telegraph.co.uk) -
@@ -414,6 +415,7 @@ Grouped in options:\
 [Elle](https://www.elle.fr) -
 [Esprit](https://esprit.presse.fr) -
 [Franc-Tireur](https://www.franc-tireur.fr) -
+[L'Avenir](https://www.lavenir.net) -
 [L'Écho](https://lecho.be) -
 [L'Équipe](https://www.lequipe.fr) -
 [L'Express](https://www.lexpress.fr) -
@@ -490,12 +492,11 @@ Grouped in options:\
 [Badische Neueste Nachrichten](https://www.bnn.de) -
 [Berliner Zeitung](https://www.berliner-zeitung.de) -
 [Cicero](https://www.cicero.de) -
-[Deutsche Wirtschafts Nachrichten](https://deutsche-wirtschafts-nachrichten.de) -
+[Der Spiegel (link to archive.today)](https://www.spiegel.de) -
 [Die Rheinpfalz](https://www.rheinpfalz.de) -
 [Die Zeit](https://www.zeit.de) -
 [Frankfurter Allgemeine Zeitung](https://www.faz.net) -
 [Freie Presse](https://www.freiepresse.de) -
-[Handelsblatt](https://www.handelsblatt.com)* -
 [Kölner Stadt-Anzeiger](https://www.ksta.de) -
 [Kölnische Rundschau](https://www.rundschau-online.de) -
 [Krautreporter.de](https://krautreporter.de) -
@@ -538,13 +539,16 @@ Grouped in options:\
 
 ##### Italy
 [Corriere della Sera](https://www.corriere.it) -
+[Corriere dello Sport](https://www.corrieredellosport.it) -
 [Domani](https://editorialedomani.it) -
 [Eastwest](https://eastwest.eu) -
 [GElocal.it](https://quotidiani.gelocal.it) -
 [Huffingtonpost.it](https://www.huffingtonpost.it) -
 [Il Fatto Quotidiano](https://www.ilfattoquotidiano.it) -
 [Il Foglio](https://www.ilfoglio.it) -
+[Il Manifesto](https://ilmanifesto.it) -
 [Il Secolo XIX](https://www.ilsecoloxix.it) -
+[Il Tirreno](https://www.iltirreno.it) -
 [Internazionale](https://www.internazionale.it) -
 [Italia Oggi](https://www.italiaoggi.it) -
 [Italian.tech](https://www.italian.tech) -
@@ -579,9 +583,13 @@ Grouped in options:\
 [Telegraaf](https://www.telegraaf.nl) -
 [Trouw](https://www.trouw.nl) -
 [Volkskrant](https://www.volkskrant.nl) -
-[Vrij Nederland](https://www.nl.nl)
+[Vrij Nederland](https://www.vn.nl)
 
 Grouped in options:\
+*Mediahuis België* sites like:\
+[Gazet van Antwerpen](https://www.gva.be) -
+[Het Belang van Limburg](https://www.hbvl.be) -
+[Het Nieuwsblad](https://www.nieuwsblad.be)\
 *Mediahuis Nederland Regional* sites like\
 [Noordhollands Dagblad](https://www.noordhollandsdagblad.nl) -
 [Haarlems Dagblad](https://www.haarlemsdagblad.nl) -
@@ -643,10 +651,10 @@ Grouped in options:\
 ##### Sweden
 [Aftonbladet](https://www.aftonbladet.se) -
 [Dagens Industri](https://www.di.se) -
-[Dagens Nyheter](https://www.dn.se)* -
 [NyTeknik](https://www.nyteknik.se)
 
 ##### Switzerland
+[Beobachter](https://www.beobachter.ch) -
 [Neue Zürcher Zeitung (+ regional/opt-in to custom sites)](https://www.nzz.ch) -
 [The Market](https://themarket.ch)
 
@@ -707,6 +715,7 @@ Grouped in options:\
 [Asia Times](https://asiatimes.com) -
 [CommonWealth Magazine Taiwan](https://www.cw.com.tw)* -
 [Harvard Business Review China](https://www.hbrchina.org) -
+[Initium Media](https://theinitium.com) -
 [Mainichi Shimbun](https://mainichi.jp) -
 [Nikkei Asian Review](https://asia.nikkei.com) -
 [South China Morning Post](https://www.scmp.com) -
@@ -716,7 +725,7 @@ Grouped in options:\
 [The Star Malaysia](https://www.thestar.com.my)
 
 #### India
-[Bloomberg Quint](https://www.bloombergquint.com) -
+[BQ Prime](https://www.bqprime.com) -
 [Business Standard](https://www.business-standard.com) -
 [Hindustan Times](https://www.hindustantimes.com) -
 [Inc42](https://inc42.com) -
@@ -727,6 +736,7 @@ Grouped in options:\
 [Mid-Day](https://www.mid-day.com) -
 [Outlook](https://www.outlookindia.com) -
 [The Economic Times (ET Prime)](https://economictimes.indiatimes.com) -
+[The Financial Express](https://www.financialexpress.com) -
 [The Hindu](https://www.thehindu.com) -
 [The Hindu BusinessLine](https://www.thehindubusinessline.com) -
 [The Indian Express](https://indianexpress.com) -
@@ -746,17 +756,15 @@ Grouped in options:\
 [Clarín](https://www.clarin.com) -
 [La Nación](https://www.lanacion.com.ar)
 ##### Brazil
+[Estado de Minas](https://www.em.com.br) -
 [Exame](https://exame.com) -
 [Folha de S. Paulo](https://www.folha.uol.com.br) -
 [Grupo Abril](https://grupoabril.com.br) -
 [O Estado de S. Paulo](https://estadao.com.br) -
-[O Globo](https://oglobo.globo.com) -
-[Valor Econômico](https://valor.globo.com)*
+[O Globo](https://oglobo.globo.com)
 ##### Chile
 [Diario Financiero](https://www.df.cl) -
-[El Mercurio](https://digital.elmercurio.com) -
-[El Mercurio de Valparaíso](https://www.mercuriovalpo.cl) -
-[La Estrella de Valparaíso](https://www.estrellavalpo.cl) -
+[El Mercurio (+ regional/opt-in to custom sites)](https://digital.elmercurio.com) -
 [La Segunda](https://digital.lasegunda.com) -
 [La Tercera](https://www.latercera.com)
 ##### Colombia

@@ -3,6 +3,60 @@ Changelog Bypass Paywalls Clean - Chrome
 
 Post-release
 
+* v2.7.4.0 (2022-07-03)
+Add Beobachter.ch
+Add BQ Prime (former Bloomberg Quint)
+Add ilTirreno.it
+Add Spiegel.de (link to archive.is)
+Remove Deutsche Wirtschafts Nachrichten (fix obsolete)
+Fix Automobilwoche
+Fix Financial Times (cookie-banner)
+Fix Groupe SudOuest.fr
+Fix Iltalehti.fi (videos)
+Fix Knack.be & LeVif.be
+Fix La Nuova Sardegna
+Fix Observador.pt
+Fix The Athletic (single domain)
+Fix Times of India (no amp)
+Update block general paywall script (remove GoogleTagManager)
+
+* v2.7.3.0 (2022-06-26)
+Add Artforum
+Add Initium Media
+Add L'Avenir (Belgium)
+Add The Banker
+Remove Dagens Nyheter (fix obsolete)
+Remove Valor Economico (fix obsolete)
+Fix Business Standard
+Fix El Mercurio
+Fix Helsingin Sanomat (dynamic-json)
+Fix Koelner Stadt-Anzeiger & Koelnische Rundschau
+Fix LesEchos.fr
+Fix Nautilus
+Fix Repubblica.it & LaStampa.it (videos-gtm)
+
+* v2.7.2.0 (2022-06-06)
+Add Estado de Minas (Brazil)
+Add ilManifesto.it
+Add The Irish Times
+Remove Handelsblatt (fix obsolete)
+Remove Study.com (fix obsolete)
+Fix LesEchos.fr (refresh)
+Fix Quartz (newsletter)
+Fix Vrij Nederland (iframe)
+Update block general paywall script (Zephr-local)
+
+* v2.7.1.0 (2022-05-29)
+Add Corriere dello Sport
+Add Gazet van Antwerpen
+Add Het Belang van Limburg
+Add Het Nieuwsblad
+Add SlideShare
+Add The Financial Express (India)
+Remove Scribd (fix obsolete)
+Fix El Mercurio (+ regional/opt-in to custom sites)
+Fix Telegraaf.nl
+
 * v2.7.0.0 (2022-05-22)
 Add group ARA.cat
 Add LaVie.fr
@@ -161,7 +215,7 @@ Update block general paywall script (Pigeon/Wordpress)
 Add Condé Nast magazines & Vogue Business
 Add Diario Correo (Grupo El Comercio)
 Add Eastwest (it/en)
-Add Groupe Sud Ouest (France)
+Add Groupe SudOuest.fr
 Fix Australian Community Media (images)
 Fix Lequipe.fr & LesEchos.fr (refresh)
 Fix New York Magazine sites (cookies)
@@ -698,7 +752,7 @@ Fix Madsack Mediengruppe (amp)
 Fix Medium/Towards Data Science (login)
 Fix Medium custom domains (login & in options)
 Fix Stratfor (style; not menu)
-Fix Sud Ouest (decode text)
+Fix SudOuest.fr (decode text)
 Update custom sites (set referer)
 
 * v2.0.6.0 (2021-01-31)
@@ -718,7 +772,7 @@ Add Correio da Manha (Portugal)
 Add El Confidencial (Spain)
 Add elDiario.es (Spain)
 Add La Nueva Espana (Spain)
-Add Observador (Portugal)
+Add Observador.pt
 Add Prospect Magazine (United Kingdom)
 Add RuhrNachrichten.de
 Add The Point Magazine
@@ -735,7 +789,7 @@ Add Il Secolo XIX (Italy)
 Add L'Usine Nouvelle (France)
 Add La Nuova Sardegna (Italy)
 Add Schweriner Volkszeitung (Germany)
-Add Sud Ouest (France)
+Add SudOuest.fr
 Fix Discover Magazine
 Fix Faz.net (Zeitung subdomain)
 Fix Funke Medien (Germany)
@@ -968,7 +1022,7 @@ Add Chronicle of Higher Education
 Add Diario Financiero (Chile)
 Add El Mercurio de Valparaiso (Chile)
 Fix MIT Technology Review
-Remove copy-notice in copied text of Financial Times (ft.com)
+Fix Financial Times (remove copy-notice)
 Update show options on update (now optional)
 
 * v1.8.2.0 (2020-08-23)
@@ -1139,7 +1193,7 @@ Fix WSJ (cookie-fix)
 * v1.6.4.4 (2020-03-15)
 Add The Athletic UK
 Add Il Messaggero (Italy)
-Fix Financial Times (ft.com)
+Fix Financial Times
 Update (custom)options UI
 Fix Corriere della Sera
 Fix custom sites (domains with capitals)
